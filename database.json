@@ -1,0 +1,2726 @@
+[
+  {
+  "name": "Asthma",
+  "category": "Chronic",
+  "symptoms": [
+    "shortness of breath",
+    "chest tightness",
+    "wheezing",
+    "coughing at night",
+    "trouble sleeping",
+    "fatigue",
+    "anxiety",
+    "bluish lips",
+    "rapid breathing",
+    "increased mucus"
+  ],
+  
+  "best_hospital": "AIIMS Delhi",
+  "hospital_cost_breakup": {
+    "doctor_fee": 1000,
+    "medicine_cost": 2000,
+    "bed_charges": 3000,
+    "meals": 800,
+    "admission_cost": 1500
+  },
+  "estimated_total_cost": 8300,
+  "precautions": [
+    "Avoid allergens",
+    "Use inhaler regularly",
+    "Keep environment clean",
+    "Avoid cold air",
+    "Regular checkups"
+  ],
+  "preventions": [
+    "Quit smoking",
+    "Use air purifiers",
+    "Vaccinate for flu",
+    "Control humidity",
+    "Avoid pollution"
+  ],
+  "best_doctor": {
+    "name": "Dr. Randeep Guleria",
+    "address": "AIIMS, Delhi",
+    "website": "https://www.aiims.edu"
+  },
+  "clinic_contact": "+91-1126593700",
+  "past_disease_match": ["bronchitis", "allergy", "eczema"],
+  "surgery_match": ["lung surgery", "bronchoscopy"]
+  },
+  {
+  "name": "Diabetes Type 2",
+  "category": "Chronic",
+  "symptoms": [
+    "increased thirst",
+    "frequent urination",
+    "hunger",
+    "fatigue",
+    "blurred vision",
+    "slow healing wounds",
+    "frequent infections",
+    "tingling hands or feet",
+    "weight loss",
+    "dry mouth"
+  ],
+  "best_hospital": "Apollo Hospitals, Chennai",
+  "hospital_cost_breakup": {
+    "doctor_fee": 1500,
+    "medicine_cost": 2500,
+    "bed_charges": 2500,
+    "meals": 1000,
+    "admission_cost": 1800
+  },
+  "estimated_total_cost": 9300,
+  "precautions": [
+    "Regular exercise",
+    "Eat healthy",
+    "Monitor blood sugar",
+    "Take medication",
+    "Avoid sugary foods"
+  ],
+  "preventions": [
+    "Maintain healthy weight",
+    "Stay active",
+    "Avoid processed foods",
+    "Quit smoking",
+    "Limit alcohol"
+  ],
+  "best_doctor": {
+    "name": "Dr. V. Mohan",
+    "address": "MDRF, Chennai",
+    "website": "https://drmohans.com"
+  },
+  "clinic_contact": "+91-4443939300",
+  "past_disease_match": [
+    "Hypertension",
+    "Prediabetes",
+    "Obesity",
+    "PCOS"
+  ],
+  "surgery_match": [
+    "Pancreatic surgery",
+    "Bariatric surgery"
+  ]
+},
+{
+    "name": "Hypertension",
+    "category": "Chronic",
+    "symptoms": [
+      "Headaches",
+      "Dizziness",
+      "Blurred vision",
+      "Nosebleeds",
+      "Chest pain",
+      "Fatigue",
+      "Shortness of breath",
+      "Nausea",
+      "Irregular heartbeat",
+      "Confusion"
+    ],
+    
+    "best_hospital": "Fortis Escorts, Delhi",
+    "hospital_cost_breakup": {
+      "doctor_fees": 1200,
+      "medicine_cost": 1000,
+      "bed_charges": 3000,
+      "meals": 2600
+    },
+    "estimated_total_cost": 7800,
+    "precautions": [
+      "Low salt diet",
+      "Daily walk",
+      "No alcohol",
+      "Stress control",
+      "Regular BP check"
+    ],
+    "preventions": [
+      "Exercise",
+      "Reduce sodium",
+      "Stop smoking",
+      "Avoid stress",
+      "Balanced diet"
+    ],
+    "best_doctor": {
+      "name": "Dr. Ashok Seth",
+      "address": "Fortis Escorts Heart Institute, Delhi",
+      "website": "https://www.fortishealthcare.com"
+    },
+    "clinic_contact": "+91-11-47135000",
+    "past_disease_match": [
+      "Obesity",
+      "Diabetes",
+      "Kidney disease",
+      "Heart disease"
+    ],
+    "surgery_match": [
+      "Heart bypass surgery",
+      "Kidney transplant"
+    ]
+  },
+  {
+    "name": "Migraine",
+    "category": "Neurological",
+    "symptoms": [
+      "Throbbing headache",
+      "Nausea",
+      "Light sensitivity",
+      "Vomiting",
+      "Vision changes",
+      "Dizziness",
+      "Neck pain",
+      "Fatigue",
+      "Confusion",
+      "Mood swings"
+    ],
+    "best_hospital": "NIMHANS, Bangalore",
+    "hospital_cost_breakup": {
+      "doctor_fees": 900,
+      "medicine_cost": 600,
+      "bed_charges": 2000,
+      "meals": 2000
+    },
+    "estimated_total_cost": 5500,
+    "precautions": [
+      "Avoid trigger foods",
+      "Stay hydrated",
+      "Sleep well",
+      "Manage stress",
+      "Avoid screen time"
+    ],
+    "preventions": [
+      "Regular meals",
+      "Yoga",
+      "Avoid caffeine",
+      "Use sunglasses",
+      "Keep diary of triggers"
+    ],
+    "best_doctor": {
+      "name": "Dr. Bindu Menon",
+      "address": "Apollo Speciality Hospital, Nellore, Andhra Pradesh",
+      "website": "https://www.bindumenon.com"
+    },
+    "clinic_contact": "+91-9440344354",
+     "past_disease_match": [
+      "Anxiety",
+      "Depression",
+      "Sleep disorders"
+    ],
+    "surgery_match": [
+      "Brain tumor removal",
+      "Neurostimulation implants"
+    ]
+  },
+  {
+    "name": "Sciatica",
+    "category": "Neurological",
+    "symptoms": [
+      "Lower back pain",
+      "Radiating leg pain",
+      "Tingling",
+      "Numbness",
+      "Weakness",
+      "Hip pain",
+      "Burning sensation",
+      "Difficulty walking",
+      "Foot drop",
+      "Pain worsens with sitting"
+    ],
+    
+    "best_hospital": "Apollo Hospitals, Chennai",
+    "hospital_cost_breakup": {
+      "doctor_fees": 1500,
+      "medicine_cost": 1200,
+      "bed_charges": 3000,
+      "meals": 3300
+    },
+    "estimated_total_cost": 9000,
+    "precautions": [
+      "Avoid heavy lifting",
+      "Do stretches",
+      "Use ergonomic chair",
+      "Don’t sit long",
+      "Apply hot/cold packs"
+    ],
+    "preventions": [
+      "Exercise",
+      "Maintain posture",
+      "Stay active",
+      "Keep healthy weight",
+      "No smoking"
+    ],
+    "best_doctor": {
+      "name": "Dr. Sajan K. Hegde",
+      "address": "Apollo Hospitals, Greams Road, Chennai",
+      "website": "https://www.apollohospitals.com"
+    },
+    "clinic_contact": "+91-44-28293333",
+    "past_disease_match": [
+      "Herniated disc",
+      "Spinal stenosis",
+      "Degenerative disc disease"
+    ],
+    "surgery_match": [
+      "Laminectomy",
+      "Discectomy",
+      "Spinal fusion"
+    ]
+  },
+  {
+    "name": "Pneumonia",
+    "category": "Infectious",
+    "symptoms": [
+      "Cough with phlegm",
+      "Fever",
+      "Chest pain",
+      "Shortness of breath",
+      "Fatigue",
+      "Nausea",
+      "Sweating",
+      "Rapid breathing",
+      "Confusion",
+      "Bluish lips"
+    ],
+    "best_hospital": "PGIMER, Chandigarh",
+    "hospital_cost_breakup": {
+      "doctor_fees": 1000,
+      "medicine_cost": 1500,
+      "bed_charges": 3000,
+      "meals": 2500
+    },
+    "estimated_total_cost": 8000,
+    "precautions": [
+      "Wear mask",
+      "Avoid cold weather",
+      "Get vaccinated",
+      "Rest well",
+      "Avoid smoke"
+    ],
+    "preventions": [
+      "Hygiene",
+      "Regular exercise",
+      "No smoking",
+      "Flu vaccination",
+      "Handwash"
+    ],
+    "best_doctor": {
+      "name": "Dr. Randeep Guleria",
+      "address": "AIIMS, New Delhi",
+      "website": "https://www.aiims.edu"
+    },
+    "clinic_contact": "+91-172-2756565",
+    "past_disease_match": [
+      "COPD",
+      "Asthma",
+      "HIV/AIDS",
+      "Bronchitis"
+    ],
+    "surgery_match": [
+      "Lung transplant",
+      "Bronchoscopy with lavage"
+    ]
+  },
+  {
+    "name": "Dengue",
+    "category": "Infectious",
+    "symptoms": [
+      "High fever",
+      "Headache",
+      "Muscle pain",
+      "Joint pain",
+      "Skin rash",
+      "Vomiting",
+      "Fatigue",
+      "Nosebleeds",
+      "Swollen glands",
+      "Low platelet count"
+    ],
+    "best_hospital": "Sir Ganga Ram Hospital, Delhi",
+    "hospital_cost_breakup": {
+      "doctor_fees": 700,
+      "medicine_cost": 1200,
+      "bed_charges": 2500,
+      "meals": 2100
+    },
+    "estimated_total_cost": 6500,
+    "precautions": [
+      "Drink fluids",
+      "Avoid mosquito bites",
+      "Use nets",
+      "Avoid aspirin",
+      "Monitor platelets"
+    ],
+    "preventions": [
+      "Clean surroundings",
+      "No water stagnation",
+      "Use repellents",
+      "Full-sleeve clothes",
+      "Govt fogging"
+    ],
+    "best_doctor": {
+      "name": "Dr. Anupam Prakash",
+      "address": "Sir Ganga Ram Hospital, Rajinder Nagar, Delhi",
+      "website": "https://sgrh.com"
+    },
+    "clinic_contact": "+91-11-42254000",
+    "past_disease_match": [
+      "Anemia",
+      "Immune deficiency",
+      "Liver disorder"
+    ],
+    "surgery_match": [
+      "Splenectomy",
+      "Organ transplant"
+    ]
+  },
+  {
+    "name": "Malaria",
+    "category": "Infectious",
+    "symptoms": [
+      "Fever",
+      "Chills",
+      "Sweating",
+      "Headache",
+      "Vomiting",
+      "Muscle pain",
+      "Diarrhea",
+      "Fatigue",
+      "Abdominal pain",
+      "Rapid breathing"
+    ],
+    "best_hospital": "KEM Hospital, Mumbai",
+    "hospital_cost_breakup": {
+      "doctor_fees": 800,
+      "medicine_cost": 1000,
+      "bed_charges": 2500,
+      "meals": 2000
+    },
+    "estimated_total_cost": 6300,
+    "precautions": [
+      "Avoid mosquito bites",
+      "Drink clean water",
+      "Get timely treatment",
+      "Take antimalarial meds",
+      "Rest"
+    ],
+    "preventions": [
+      "Use nets",
+      "Spray repellents",
+      "Drain standing water",
+      "Govt malaria drive",
+      "Cover body"
+    ],
+    "best_doctor": {
+      "name": "Dr. Om Shrivastav",
+      "address": "Jaslok Hospital and Research Centre, Mumbai",
+      "website": "https://www.jaslokhospital.net"
+    },
+    "clinic_contact": "+91-22-24136051",
+    "past_disease_match": [
+      "Sickle cell disease",
+      "Anemia",
+      "Thalassemia"
+    ],
+    "surgery_match": [
+      "Spleen surgery",
+      "Bone marrow transplant"
+    ]
+  },
+  {
+    "name": "Typhoid",
+    "category": "Infectious",
+    "symptoms": [
+      "High fever",
+      "Weakness",
+      "Abdominal pain",
+      "Headache",
+      "Loss of appetite",
+      "Rash",
+      "Diarrhea",
+      "Constipation",
+      "Fatigue",
+      "Body aches"
+    ],
+    "best_hospital": "Safdarjung Hospital, Delhi",
+    "hospital_cost_breakup": {
+      "doctor_fees": 700,
+      "medicine_cost": 800,
+      "bed_charges": 2500,
+      "meals": 1800
+    },
+    "estimated_total_cost": 5800,
+    "precautions": [
+      "Eat light food",
+      "Drink ORS",
+      "Avoid street food",
+      "Take antibiotics",
+      "Take rest"
+    ],
+    "preventions": [
+      "Drink safe water",
+      "Hand hygiene",
+      "Typhoid vaccine",
+      "Boil water",
+      "Avoid raw food"
+    ],
+    "best_doctor": {
+      "name": "Dr. S K Sharma",
+      "address": "Safdarjung Hospital, New Delhi",
+      "website": "https://vmmc-sjh.nic.in"
+    },
+    "clinic_contact": "+91-11-26165060",
+    "past_disease_match": [
+      "Hepatitis",
+      "Chronic gastritis",
+      "Irritable bowel syndrome (IBS)"
+    ],
+    "surgery_match": [
+      "Appendectomy",
+      "Bowel resection"
+    ]
+  },
+  {
+    "name": "Tuberculosis (TB)",
+    "category": "Infectious",
+    "symptoms": [
+      "Persistent cough",
+      "Chest pain",
+      "Blood in cough",
+      "Night sweats",
+      "Fever",
+      "Fatigue",
+      "Weight loss",
+      "Loss of appetite",
+      "Chills",
+      "Breathlessness"
+    ],
+    "best_hospital": "National Institute of TB and Respiratory Diseases, Delhi",
+    "hospital_cost_breakup": {
+      "doctor_fees": 500,
+      "medicine_cost": 1000,
+      "bed_charges": 2000,
+      "meals": 1300
+    },
+    "estimated_total_cost": 4800,
+    "precautions": [
+      "Complete full course",
+      "Avoid contact",
+      "Wear mask",
+      "Good ventilation",
+      "Regular checkups"
+    ],
+    "preventions": [
+      "BCG vaccine",
+      "Early treatment",
+      "Avoid closed space",
+      "Do not spit publicly"
+    ],
+    "best_doctor": {
+      "name": "Dr. S K Jindal",
+      "address": "National Institute of TB and Respiratory Diseases, Mehrauli, Delhi",
+      "website": "https://nitrd.nic.in"
+    },
+    "clinic_contact": "+91-11-26061678",
+    "past_disease_match": [
+      "HIV/AIDS",
+      "Chronic bronchitis",
+      "Silicosis"
+    ],
+    "surgery_match": [
+      "Lung surgery",
+      "Chest wall repair"
+    ]
+  },
+  {
+    "name": "Anemia",
+    "category": "Awareness",
+    "symptoms": [
+      "Fatigue",
+      "Pale skin",
+      "Shortness of breath",
+      "Dizziness",
+      "Cold hands and feet",
+      "Chest pain",
+      "Irregular heartbeat",
+      "Headache",
+      "Weakness",
+      "Brittle nails"
+    ],
+    "best_hospital": "AIIMS Delhi",
+    "hospital_admission_cost": 7500,
+    "medicine_cost": 900,
+    "doctor_fees": 600,
+    "estimated_total_cost": 9000,
+    "precautions": [
+      "Take iron supplements regularly",
+      "Avoid tea/coffee after iron intake",
+      "Regular check-ups",
+      "Include leafy greens in diet",
+      "Manage heavy menstruation"
+    ],
+    "preventions": [
+      "Iron-rich diet",
+      "Deworming",
+      "Avoid alcohol",
+      "Vitamin C with meals",
+      "Treat underlying conditions"
+    ],
+    "best_doctor": {
+      "name": "Dr. Ramesh Sethi",
+      "address": "AIIMS",
+      "website": "www.aiims.edu"
+    },
+    "clinic_contact": "+91-11-26588500",
+    "past_disease_match": [
+      "Kidney disease",
+      "Thyroid disorder",
+      "Heavy menstruation",
+      "Malaria"
+    ],
+    "surgery_match": [
+      "Gastric bypass surgery",
+      "Colon resection",
+      "Cesarean section (C-section)"
+    ]
+  },
+  {
+    "name": "Gastroenteritis",
+    "category": "Awareness",
+    "symptoms": [
+      "Vomiting", "Diarrhea", "Stomach pain", "Dehydration", "Nausea",
+      "Fever", "Bloating", "Headache", "Fatigue", "Loss of appetite"
+    ],
+    "best_hospital": "Fortis Hospital, Noida",
+    "hospital_admission_cost": 5000,
+    "medicine_cost": 600,
+    "doctor_fees": 500,
+    "estimated_total_cost": 6100,
+    "precautions": [
+      "Stay hydrated",
+      "Avoid street food",
+      "Use ORS",
+      "Eat light food",
+      "Maintain hygiene"
+    ],
+    "preventions": [
+      "Boiled water",
+      "Handwashing",
+      "Proper food storage",
+      "Avoid stale food",
+      "Sanitize utensils"
+    ],
+    "best_doctor": {
+      "name": "Dr. Neeraj Gupta",
+      "address": "Fortis Hospital",
+      "website": "www.fortishealthcare.com"
+    },
+    "clinic_contact": "+91-120-4300222",
+    "past_disease_match": ["Dehydration", "Acid reflux", "Food poisoning"],
+    "surgery_match": ["Appendectomy", "Gallbladder removal"]
+  },
+  {
+    "name": "Tonsillitis",
+    "category": "Awareness",
+    "symptoms": [
+      "Sore throat", "Difficulty swallowing", "Red/swollen tonsils", "Fever", "Headache",
+      "Hoarseness", "Ear pain", "Bad breath", "Fatigue", "Swollen lymph nodes"
+    ],
+    "best_hospital": "Apollo Hospital, Chennai",
+    "hospital_admission_cost": 10000,
+    "medicine_cost": 700,
+    "doctor_fees": 600,
+    "estimated_total_cost": 11300,
+    "precautions": [
+      "Avoid cold food/drinks",
+      "Gargle with salt water",
+      "Complete antibiotic course",
+      "Rest voice",
+      "Avoid allergens"
+    ],
+    "preventions": [
+      "Good hygiene",
+      "Handwashing",
+      "Avoid infected persons",
+      "Healthy diet",
+      "Avoid smoking"
+    ],
+    "best_doctor": {
+      "name": "Dr. R. Srinivasan",
+      "address": "Apollo Hospital",
+      "website": "www.apollohospitals.com"
+    },
+    "clinic_contact": "+91-44-28293333",
+    "past_disease_match": ["Sinus infection", "Cold", "Pharyngitis"],
+    "surgery_match": ["Tonsillectomy", "Adenoidectomy" ]
+  },
+  {
+    "name": "Measles",
+    "category": "Infectious",
+    "symptoms": [
+      "Fever", "Cough", "Runny nose", "Inflamed eyes", "Rash",
+      "White spots in mouth", "Body ache", "Fatigue", "Sore throat", "Dry cough"
+    ],
+    "past_disease_match": [
+      "Flu",
+      "Rubella",
+      "Chickenpox",
+      "Scarlet fever",
+      "Mumps"
+    ],
+    "surgery_match": [
+      "Hospitalization for severe complications",
+      "Airway management",
+      "Dehydration IV support",
+      "Respiratory therapy"
+    ],
+    "best_hospital": "CMC, Vellore",
+    "hospital_expenses": {
+      "doctor_fees": 400,
+      "medicine_cost": 800,
+      "hospital_admission_cost": 6500,
+      "estimated_total_cost": 7700
+    },
+    "precautions": [
+      "Avoid contact",
+      "Use humidifier",
+      "Wear mask",
+      "Rest",
+      "Drink fluids"
+    ],
+    "preventions": [
+      "MMR vaccine",
+      "Avoid crowd",
+      "Sanitize",
+      "Wash hands",
+      "Early diagnosis"
+    ],
+    "best_doctor": {
+      "name": "Dr. Anitha Williams",
+      "address": "Christian Medical College, Vellore",
+      "website": "https://www.cmch-vellore.edu"
+    },
+    "clinic_contact": "+91-416-2281000"
+  },
+  {
+    "name": "Hepatitis B",
+    "category": "Infectious",
+    "symptoms": [
+      "Fatigue", "Jaundice", "Dark urine", "Abdominal pain", "Loss of appetite",
+      "Nausea", "Vomiting", "Joint pain", "Fever", "Bloating"
+    ],
+    "best_hospital": "ILBS, Delhi",
+    "hospital_expenses": {
+      "doctor_fees": 800,
+      "medicine_cost": 2500,
+      "hospital_admission_cost": 12000,
+      "estimated_total_cost": 15300
+    },
+    "precautions": [
+      "Avoid alcohol",
+      "Don’t share needles",
+      "Practice safe sex",
+      "Rest",
+      "Eat healthy"
+    ],
+    "preventions": [
+      "Vaccination",
+      "Avoid blood contact",
+      "Screen blood donors",
+      "Hygiene",
+      "Use disposable syringes"
+    ],
+    "best_doctor": {
+      "name": "Dr. Shiv Kumar Sarin",
+      "address": "Institute of Liver and Biliary Sciences (ILBS), New Delhi",
+      "website": "https://www.ilbs.in"
+    },
+    "clinic_contact": "+91-11-46300000",
+    "past_disease_match": [
+      "Liver infection",
+      "Jaundice",
+      "Fatty liver",
+      "Alcoholic hepatitis",
+      "Autoimmune hepatitis"
+    ],
+    "surgery_match": [
+      "Liver biopsy",
+      "Liver transplantation",
+      "Paracentesis",
+      "Gallbladder removal",
+      "Endoscopic treatment"
+    ]
+  },
+  {
+    "name": "Hepatitis C",
+    "category": "Infectious",
+    "symptoms": [
+      "Fatigue", "Jaundice", "Dark urine", "Bleeding", "Easy bruising",
+      "Poor appetite", "Joint pain", "Confusion", "Weight loss", "Swelling"
+    ],
+    "best_hospital": "Apollo Hospitals, Hyderabad",
+    "hospital_expenses": {
+      "doctor_fees": 900,
+      "medicine_cost": 3000,
+      "hospital_admission_cost": 14000,
+      "estimated_total_cost": 17900
+    },
+    "precautions": [
+      "Avoid alcohol",
+      "Follow medication",
+      "Rest",
+      "Avoid fatty food",
+      "Monitor liver"
+    ],
+    "preventions": [
+      "Safe sex",
+      "No needle sharing",
+      "Screen donors",
+      "Hygiene",
+      "Use gloves"
+    ],
+    "best_doctor": {
+      "name": "Dr. D. Subramanyam",
+      "address": "Apollo Hospitals, India",
+      "website": "https://www.apollohospitals.com"
+    },
+    "clinic_contact": "+91-40-23607777",
+    "past_disease_match": [
+      "Hepatitis B",
+      "Liver cirrhosis",
+      "Blood disorder",
+      "Hemochromatosis",
+      "Autoimmune hepatitis"
+    ],
+    "surgery_match": [
+      "Liver transplant",
+      "Biopsy",
+      "Endoscopy",
+      "Fluid drainage",
+      "Biliary surgery" 
+    ]
+  },
+  {
+    "name": "Chikungunya",
+    "category": "Infectious",
+    "symptoms": [
+      "Joint pain", "Fever", "Rash", "Headache", "Muscle pain",
+      "Fatigue", "Nausea", "Red eyes", "Back pain", "Vomiting"
+    ],
+    "best_hospital": "Max Super Speciality Hospital, Saket",
+    "hospital_expenses": {
+      "doctor_fees": 600,
+      "medicine_cost": 900,
+      "hospital_admission_cost": 7000,
+      "estimated_total_cost": 8500
+    },
+    "precautions": [
+      "Use mosquito repellent",
+      "Rest",
+      "Drink fluids",
+      "Wear long clothes",
+      "Avoid exposure"
+    ],
+    "preventions": [
+      "Eliminate mosquito breeding",
+      "Cover water tanks",
+      "Spray insecticide",
+      "Wear full sleeves",
+      "Use nets"
+    ],
+    "best_doctor": {
+      "name": "Dr. Ruchi Rai",
+      "address": "Max Super Speciality Hospital, Delhi",
+      "website": "https://www.maxhealthcare.in"
+    },
+    "clinic_contact": "+91-11-26515050",
+    "past_disease_match": [
+      "Dengue",
+      "Malaria",
+      "Zika virus",
+      "Typhoid",
+      "Leptospirosis"
+    ],
+    "surgery_match": [
+      "Joint aspiration",
+      "IV fluid therapy",
+      "Wound care",
+      "Severe case hospitalization",
+      "Neurological complication treatment"
+    ]
+  },
+  {
+    "name": "COVID-19",
+    "category": "Infectious",
+    "symptoms": [
+      "Fever", "Dry cough", "Fatigue", "Sore throat", "Loss of smell/taste",
+      "Body pain", "Diarrhea", "Headache", "Breathlessness", "Chest pain"
+    ],
+    "best_hospital": "Lok Nayak Hospital, Delhi",
+    "hospital_expenses": {
+      "doctor_fees": 1000,
+      "medicine_cost": 2000,
+      "hospital_admission_cost": 15000,
+      "estimated_total_cost": 18000
+    },
+    "precautions": [
+      "Mask wearing",
+      "Social distancing",
+      "Hand sanitizing",
+      "Avoid crowds",
+      "Self-isolate if symptoms appear"
+    ],
+    "preventions": [
+      "Vaccination",
+      "Public awareness",
+      "Hygiene",
+      "Ventilation",
+      "Travel precautions"
+    ],
+    "best_doctor": {
+      "name": "Dr. S.K. Sarin",
+      "address": "Institute of Liver and Biliary Sciences (ILBS), New Delhi",
+      "website": "https://www.ilbs.in"
+    },
+    "clinic_contact": "+91-11-23239271",
+    "past_disease_match": [
+      "Pneumonia",
+      "Bronchitis",
+      "SARS",
+      "MERS",
+      "Tuberculosis"
+    ],
+    "surgery_match": [
+      "Lung transplant",
+      "Ventilator support",
+      "Tracheostomy",
+      "ECMO support",
+      "Intensive care procedures"
+    ]
+  },
+   {
+    "name": "HIV/AIDS",
+    "category": "Infectious",
+    "symptoms": [
+      "Fatigue", "Fever", "Weight loss", "Night sweats", "Swollen lymph nodes",
+      "Diarrhea", "Mouth ulcers", "Skin rashes", "Frequent infections"
+    ],
+    "best_hospital": "NACO + AIIMS Collaboration Centre",
+    "hospital_expenses": {
+      "doctor_fees": 1000,
+      "medicine_cost": 5000,
+      "hospital_admission_cost": 8000,
+      "estimated_total_cost": 14000
+    },
+    "precautions": [
+      "Safe sex",
+      "Regular HIV testing",
+      "No needle sharing",
+      "Hygiene",
+      "No blood contact"
+    ],
+    "preventions": [
+      "Condom use",
+      "ART therapy",
+      "Awareness programs",
+      "Blood screening",
+      "PrEP"
+    ],
+    "best_doctor": {
+      "name": "Dr. Ishwar Gilada",
+      "address": "Unison Medicare & Research Centre, Mumbai",
+      "website": "https://www.hivaidsindia.in"
+    },
+    "clinic_contact": "+91-22-23863863",
+    "past_disease_match": [
+      "Tuberculosis",
+      "Hepatitis B",
+      "STDs",
+      "Pneumocystis pneumonia",
+      "Candidiasis"
+    ],
+    "surgery_match": [
+      "Blood transfusion",
+      "Organ transplant",
+      "Wound debridement",
+      "Implant removal",
+      "Surgical abscess drainage"
+    ]
+  },
+  {
+    "name": "Sinusitis",
+    "category": "Infectious",
+    "symptoms": [
+      "Headache", "Facial pain", "Nasal congestion", "Cough", "Postnasal drip",
+      "Fever", "Fatigue", "Bad breath", "Tooth pain", "Ear pressure"
+    ],
+    "best_hospital": "Kokilaben Hospital, Mumbai",
+    "hospital_expenses": {
+      "doctor_fees": 700,
+      "medicine_cost": 800,
+      "hospital_admission_cost": 12000,
+      "estimated_total_cost": 13500
+    },
+    "precautions": [
+      "Steam inhalation",
+      "Avoid cold drinks",
+      "Nasal spray use",
+      "Humidifier in room",
+      "Warm fluids"
+    ],
+    "preventions": [
+      "Treat colds early",
+      "Allergy control",
+      "Keep sinuses moist",
+      "Avoid smoke",
+      "Strengthen immunity"
+    ],
+    "best_doctor": {
+      "name": "Dr. A. Deshmukh",
+      "address": "Kokilaben Dhirubhai Ambani Hospital, Mumbai",
+      "website": "https://www.kokilabenhospital.com"
+    },
+    "clinic_contact": "+91-22-30696969",
+    "past_disease_match": [
+      "Cold",
+      "Allergies",
+      "Nasal polyps",
+      "Asthma",
+      "Deviated nasal septum"
+    ],
+    "surgery_match": [
+      "Sinus surgery",
+      "Septoplasty",
+      "Turbinate reduction",
+      "Balloon sinuplasty",
+      "Endoscopic sinus surgery"
+    ]
+  },
+  {
+    "name": "Stroke",
+    "category": "Neuro",
+    "symptoms": [
+      "Face drooping", "Arm weakness", "Speech difficulty", "Confusion", "Blurred vision",
+      "Dizziness", "Headache", "Numbness", "Loss of balance", "Trouble walking"
+    ],
+    "best_hospital": "Apollo Hospitals, Hyderabad",
+    "hospital_expenses": {
+      "doctor_fees": 1200,
+      "medicine_cost": 2500,
+      "hospital_admission_cost": 125000,
+      "estimated_total_cost": 128700
+    },
+    "precautions": [
+      "Blood pressure control",
+      "Antiplatelet drugs",
+      "No alcohol",
+      "Regular rehab",
+      "Speech therapy"
+    ],
+    "preventions": [
+      "BP control",
+      "Cholesterol control",
+      "Avoid junk food",
+      "Daily walking",
+      "Sugar control"
+    ],
+    "best_doctor": {
+      "name": "Dr. B. Ramesh",
+      "address": "Apollo Hospitals, India",
+      "website": "https://www.apollohospitals.com"
+    },
+    "clinic_contact": "+91-40-23607777",
+    "past_disease_match": [
+      "Hypertension",
+      "Heart disease",
+      "Diabetes",
+      "Atrial fibrillation",
+      "Carotid artery disease"
+    ],
+    "surgery_match": [
+      "Brain surgery",
+      "Carotid endarterectomy",
+      "Thrombectomy",
+      "Craniotomy",
+      "Ventriculostomy"
+    ]
+  },
+  {
+    "name": "Arthritis",
+    "category": "Ortho",
+    "symptoms": [
+      "Joint pain", "Swelling", "Stiffness", "Redness", "Fatigue",
+      "Limited motion", "Warmth", "Joint deformity", "Muscle weakness", "Tenderness"
+    ],
+    "best_hospital": "CMC Vellore",
+    "hospital_expenses": {
+      "doctor_fees": 600,
+      "medicine_cost": 1000,
+      "hospital_admission_cost": 10000,
+      "estimated_total_cost": 11600
+    },
+    "precautions": [
+      "Physiotherapy",
+      "Hot/cold packs",
+      "Weight control",
+      "Regular movement",
+      "Joint support"
+    ],
+    "preventions": [
+      "Healthy diet",
+      "Avoid injury",
+      "Omega-3 intake",
+      "Regular stretching",
+      "Stay active"
+    ],
+    "best_doctor": {
+      "name": "Dr. Sheela Nair",
+      "address": "Christian Medical College (CMC), Vellore",
+      "website": "https://www.cmch-vellore.edu"
+    },
+    "clinic_contact": "+91-416-2281000",
+    "past_disease_match": [
+      "Osteoporosis",
+      "Rheumatoid arthritis",
+      "Lupus",
+      "Gout",
+      "Psoriatic arthritis"
+    ],
+    "surgery_match": [
+      "Knee replacement",
+      "Hip replacement",
+      "Joint fusion",
+      "Arthroscopic surgery",
+      "Synovectomy"
+    ]
+  },
+  {
+    "name": "Chickenpox",
+    "category": "Infectious",
+    "symptoms": [
+      "Rash", "Itching", "Fever", "Tiredness", "Loss of appetite",
+      "Headache", "Fluid-filled blisters", "Scabs", "Sore throat", "Nausea"
+    ],
+    "best_hospital": "Fortis Hospital, Noida",
+    "hospital_expenses": {
+      "doctor_fees": 700,
+      "medicine_cost": 1200,
+      "hospital_admission_cost": 6000,
+      "estimated_total_cost": 7900
+    },
+    "precautions": [
+      "Avoid scratching",
+      "Isolate",
+      "Wear loose clothing",
+      "Stay cool",
+      "Use soothing lotion"
+    ],
+    "preventions": [
+      "Vaccination",
+      "Hygiene",
+      "Avoid infected people",
+      "Wash hands",
+      "Proper covering while sneezing"
+    ],
+    "best_doctor": {
+      "name": "Dr. Mandeep Singh",
+      "address": "Fortis Healthcare, India",
+      "website": "https://www.fortishealthcare.com"
+    },
+    "clinic_contact": "+91-120-4300222",
+    "past_disease_match": [
+      "Measles",
+      "Shingles",
+      "Rubella",
+      "Scarlet fever",
+      "Cytomegalovirus"
+    ],
+    "surgery_match": [
+      "Abscess drainage",
+      "Skin lesion excision",
+      "Secondary infection wound care",
+      "Severe blister treatment",
+      "Hospitalization for complications"
+    ]
+  },
+  {
+    "name": "Gastritis",
+    "category": "General",
+    "symptoms": [
+      "Stomach pain", "Nausea", "Vomiting", "Bloating", "Indigestion",
+      "Appetite loss", "Hiccups", "Belching", "Burning stomach", "Black stools"
+    ],
+    "best_hospital": "Fortis Escorts, Delhi",
+    "hospital_expenses": {
+      "doctor_fees": 600,
+      "medicine_cost": 800,
+      "hospital_admission_cost": 9000,
+      "estimated_total_cost": 10400
+    },
+    "precautions": [
+      "Avoid spicy food",
+      "No smoking",
+      "Limit alcohol",
+      "Eat small meals",
+      "Stay hydrated"
+    ],
+    "preventions": [
+      "Clean food",
+      "Avoid NSAIDs",
+      "Manage stress",
+      "Avoid late meals",
+      "Regular checkups"
+    ],
+    "best_doctor": {
+      "name": "Dr. Arvind Khurana",
+      "address": "Fortis Hospital, Shalimar Bagh, New Delhi",
+      "website": "https://www.fortishealthcare.com"
+    },
+    "clinic_contact": "+91-11-47135000",
+    "past_disease_match": [
+      "Ulcer",
+      "GERD",
+      "Helicobacter pylori",
+      "Autoimmune disorders",
+      "Bile reflux"
+    ],
+    "surgery_match": [
+      "Endoscopy",
+      "Gastrectomy",
+      "Vagotomy (rare, severe cases)"
+    ]
+  },
+  {
+    "name": "Epilepsy",
+    "category": "Neurological",
+    "symptoms": [
+      "Seizures", "Confusion", "Staring spell", "Uncontrolled jerking",
+      "Loss of consciousness", "Psychic symptoms", "Anxiety", "Aura", "Headache", "Muscle stiffness"
+    ],
+    "best_hospital": "NIMHANS, Bengaluru",
+    "hospital_expenses": {
+      "doctor_fees": 500,
+      "medicine_cost": 2000,
+      "hospital_admission_cost": 15000,
+      "estimated_total_cost": 17500
+    },
+    "precautions": [
+      "Take meds regularly",
+      "Avoid flashing lights",
+      "No alcohol",
+      "Sleep well",
+      "Use ID bracelet"
+    ],
+    "preventions": [
+      "Prenatal care",
+      "Treat infections",
+      "Avoid brain injury",
+      "Avoid stress",
+      "Regular scans"
+    ],
+    "best_doctor": {
+      "name": "Dr. P. Satishchandra",
+      "address": "National Institute of Mental Health and Neurosciences (NIMHANS), Bengaluru",
+      "website": "https://www.nimhans.ac.in"
+    },
+    "clinic_contact": "+91-80-26995000",
+    "past_disease_match": [
+      "Brain injury",
+      "Stroke",
+      "Meningitis",
+      "Brain tumor",
+      "Genetic disorders",
+      "Encephalitis"
+    ],
+    "surgery_match": [
+      "Vagus nerve stimulation",
+      "Lobectomy",
+      "Corpus callosotomy",
+      "Deep brain stimulation",
+      "Responsive neurostimulation (RNS)"
+    ]
+  },
+  {
+    "name": "Depression",
+    "category": "Mental",
+    "symptoms": [
+      "Sadness", "Hopelessness", "Sleep issues", "Appetite change",
+      "Lack of energy", "Guilt", "Suicidal thoughts", "Poor focus", "Isolation", "Anger"
+    ],
+    "best_hospital": "NIMHANS, Bengaluru",
+    "hospital_expenses": {
+      "doctor_fees": 700,
+      "medicine_cost": 1000,
+      "hospital_admission_cost": 18000,
+      "estimated_total_cost": 19700
+    },
+    "precautions": [
+      "Take therapy",
+      "Stay active",
+      "Maintain routine",
+      "Stay social",
+      "Avoid drugs/alcohol"
+    ],
+    "preventions": [
+      "Mental wellness",
+      "Regular counseling",
+      "Good sleep",
+      "Positive thinking",
+      "Support system"
+    ],
+    "best_doctor": {
+      "name": "Dr. Seema Mehrotra",
+      "address": "National Institute of Mental Health and Neurosciences (NIMHANS), Bengaluru",
+      "website": "https://www.nimhans.ac.in"
+    },
+    "clinic_contact": "+91-80-26995000",
+    "past_disease_match": [
+      "Bipolar disorder",
+      "Anxiety disorder",
+      "Postpartum depression",
+      "Substance abuse",
+      "Chronic pain",
+      "PTSD"
+    ],
+    "surgery_match": [
+      "Electroconvulsive Therapy (ECT)",
+      "Vagus Nerve Stimulation (VNS)",
+      "Deep Brain Stimulation (DBS)",
+      "Transcranial Magnetic Stimulation (TMS)"
+    ]
+  },
+  {
+    "name": "Cataract",
+    "category": "Eye",
+    "symptoms": [
+      "Blurry vision", "Faded colors", "Glare", "Poor night vision",
+      "Double vision", "Halos", "Frequent power change", "Light sensitivity",
+      "Yellowing vision", "Vision loss"
+    ],
+    "best_hospital": "Shankar Netralaya, Chennai",
+    "hospital_expenses": {
+      "doctor_fees": 500,
+      "medicine_cost": 2000,
+      "hospital_admission_cost": 22000,
+      "estimated_total_cost": 24500
+    },
+    "precautions": [
+      "Use eye drops",
+      "Wear sunglasses",
+      "Avoid dusty areas",
+      "Regular checkups",
+      "No rubbing eyes"
+    ],
+    "preventions": [
+      "Manage diabetes",
+      "Avoid UV light",
+      "Eat leafy greens",
+      "No smoking",
+      "Eye protection"
+    ],
+    "best_doctor": {
+      "name": "Dr. Lingam Gopal",
+      "address": "Sankara Nethralaya, Chennai",
+      "website": "https://www.snredirect.org"
+    },
+    "clinic_contact": "+91-44-28271616",
+    "past_disease_match": [
+      "Diabetes",
+      "Glaucoma",
+      "Uveitis",
+      "Eye injury"
+    ],
+    "surgery_match": [
+      "Cataract surgery",
+      "Lens replacement"
+    ]
+  },
+  {
+    "name": "Conjunctivitis",
+    "category": "Eye",
+    "symptoms": [
+      "Redness", "Itching", "Discharge", "Tearing", "Swelling",
+      "Burning", "Sensitivity to light", "Blurred vision", "Gritty feeling", "Crusty eyelids"
+    ],
+    "best_hospital": "LV Prasad Eye Institute, Hyderabad",
+    "hospital_expenses": {
+      "doctor_fees": 400,
+      "medicine_cost": 600,
+      "hospital_admission_cost": 0,
+      "estimated_total_cost": 1000
+    },
+    "precautions": [
+      "Avoid touching eyes",
+      "Use separate towel",
+      "Clean discharge",
+      "Stay home",
+      "Follow eye drops"
+    ],
+    "preventions": [
+      "Wash hands",
+      "Use clean lenses",
+      "Avoid allergens",
+      "Use eye protection",
+      "Avoid infected people"
+    ],
+    "best_doctor": {
+      "name": "Dr. Sayan Basu",
+      "address": "L V Prasad Eye Institute (LVPEI), Hyderabad",
+      "website": "https://www.lvpei.org"
+    },
+    "clinic_contact": "+91-40-30612345",
+    "past_disease_match": [
+      "Allergies",
+      "Eye infections",
+      "Recent cold or flu",
+      "Sinus infection"
+    ],
+    "surgery_match": [
+      "None (usually managed medically)"
+    ]
+  },
+  {
+    "name": "Dysentery",
+    "category": "Infectious",
+    "symptoms": [
+      "Bloody diarrhea", "Fever", "Nausea", "Vomiting", "Stomach cramps",
+      "Dehydration", "Weakness", "Weight loss", "Mucus in stool", "Urgency"
+    ],
+    "best_hospital": "AIIMS, Delhi",
+    "hospital_expenses": {
+      "doctor_fees": 600,
+      "medicine_cost": 1200,
+      "hospital_admission_cost": 9000,
+      "estimated_total_cost": 10800
+    },
+    "precautions": [
+      "Hydrate well",
+      "Use ORS",
+      "Maintain hygiene",
+      "Avoid outside food",
+      "Avoid dairy"
+    ],
+    "preventions": [
+      "Boil water",
+      "Wash food",
+      "Avoid flies",
+      "Sanitize hands",
+      "Cook food well"
+    ],
+    "best_doctor": {
+      "name": "Dr. Neeraj Nischal",
+      "address": "All India Institute of Medical Sciences (AIIMS), New Delhi",
+      "website": "https://www.aiims.edu"
+    },
+    "clinic_contact": "+91-11-26588500",
+    "past_disease_match": [
+      "Amebiasis",
+      "Typhoid",
+      "Cholera",
+      "Gastroenteritis"
+    ],
+    "surgery_match": [
+      "Rare – Severe cases may require bowel resection"
+    ]
+  },
+  {
+    "name": "Liver Cirrhosis",
+    "category": "Chronic",
+    "symptoms": [
+      "Fatigue", "Yellow skin (jaundice)", "Swelling in legs", "Weight loss",
+      "Confusion", "Easy bruising", "Itchy skin", "Spider veins", "Nausea", "Abdominal pain"
+    ],
+    "best_hospital": "Apollo Hospitals, Chennai",
+    "hospital_expenses": {
+      "doctor_fees": 1800,
+      "medicine_cost": 3500,
+      "hospital_admission_cost": 65000,
+      "estimated_total_cost": 70300
+    },
+    "precautions": [
+      "Avoid alcohol",
+      "Eat low-sodium food",
+      "Get vaccinated (Hep A/B)",
+      "Monitor weight",
+      "Regular liver function test"
+    ],
+    "preventions": [
+      "Limit alcohol",
+      "Avoid hepatitis infection",
+      "Healthy diet",
+      "Safe sex",
+      "Maintain healthy weight"
+    ],
+    "best_doctor": {
+      "name": "Dr. Mohamed Rela",
+      "address": "Dr. Rela Institute & Medical Centre, Chennai",
+      "website": "https://www.relainstitute.com"
+    },
+    "clinic_contact": "+91 44 6666 7788",
+    "past_disease_match": [
+      "Hepatitis B or C",
+      "Fatty liver disease",
+      "Alcoholism",
+      "Hemochromatosis"
+    ],
+    "surgery_match": [
+      "Liver transplant",
+      "Endoscopic variceal banding (for internal bleeding)"
+    ]
+  },
+  {
+    "name": "Brain Tumor",
+    "category": "Neuro",
+    "symptoms": [
+      "Headaches", "Seizures", "Vision changes", "Memory problems", "Balance issues",
+      "Personality change", "Speech difficulty", "Nausea", "Confusion", "Muscle weakness"
+    ],
+    "best_hospital": "Tata Memorial Hospital, Mumbai",
+    "doctor": {
+      "name": "Dr. Nitin Dange",
+      "website": "www.tmcmumbai.org"
+    },
+    "clinic_contact": "+91 22 2417 7000",
+    "doctor_fee": 2000,
+    "medicine_cost": 6000,
+    "hospital_admission_cost": 85000,
+    "precautions": [
+      "Avoid radiation exposure",
+      "Reduce cellphone use",
+      "Healthy diet",
+      "Manage stress",
+      "Regular checkups"
+    ],
+    "prevention": [
+      "Avoid carcinogens",
+      "Use hands-free phones",
+      "Avoid smoking",
+      "Monitor genetic risk",
+      "Protective headgear"
+    ],
+    "past_disease_match": ["Radiation exposure", "Genetic disorders"],
+    "surgery_match": ["Craniotomy", "Stereotactic radiosurgery"]
+  },
+  {
+    "name": "Cervical Cancer",
+    "category": "Women is Health",
+    "symptoms": [
+      "Abnormal bleeding", "Pelvic pain", "Unusual discharge", "Pain during sex",
+      "Fatigue", "Leg swelling", "Back pain", "Weight loss", "Urinary problems"
+    ],
+    "best_hospital": "AIIMS, New Delhi",
+    "doctor": {
+      "name": "Dr. Neerja Bhatla",
+      "website": "www.aiims.edu"
+    },
+    "clinic_contact": "+91 11 2658 8500",
+    "doctor_fee": 1200,
+    "medicine_cost": 4000,
+    "hospital_admission_cost": 48000,
+    "precautions": [
+      "Regular Pap smear",
+      "Avoid multiple sexual partners",
+      "HPV vaccination",
+      "Quit smoking",
+      "Safe sex"
+    ],
+    "prevention": [
+      "Get HPV vaccine",
+      "Regular screenings",
+      "Limit sexual partners",
+      "Use condoms",
+      "Healthy lifestyle"
+    ],
+    "past_disease_match": ["HPV Infection"],
+    "surgery_match": ["Hysterectomy", "LEEP procedure"]
+  },
+  {
+    "name": "Prostate Cancer",
+    "category": "Men is Health",
+    "symptoms": [
+      "Frequent urination", "Blood in urine", "Painful urination", "Erectile dysfunction",
+      "Pelvic discomfort", "Bone pain", "Weak urine flow", "Weight loss", "Fatigue"
+    ],
+    "best_hospital": "Fortis Memorial, Gurgaon",
+    "doctor": {
+      "name": "Dr. S K Pal",
+      "website": "www.fortishealthcare.com"
+    },
+    "clinic_contact": "+91 124 496 2200",
+    "doctor_fee": 2000,
+    "medicine_cost": 5500,
+    "hospital_admission_cost": 70000,
+    "precautions": [
+      "Regular PSA test",
+      "Healthy diet",
+      "Exercise",
+      "Avoid smoking",
+      "Maintain healthy weight"
+    ],
+    "prevention": [
+      "Low-fat diet",
+      "Avoid red meat",
+      "Green tea intake",
+      "Regular prostate checks",
+      "Stay active"
+    ],
+    "past_disease_match": ["Benign Prostatic Hyperplasia (BPH)"],
+    "surgery_match": ["Prostatectomy", "Radiation Therapy"]
+  },
+  {
+    "name": "Skin Cancer",
+    "category": "Dermatology",
+    "symptoms": [
+      "New skin growth", "Bleeding moles", "Irregular border mole", "Itching", "Color change",
+      "Non-healing wound", "Shiny bump", "Crusting", "Tenderness", "Ulceration"
+    ],
+    "best_hospital": "BLK-Max Hospital, Delhi",
+    "doctor": {
+      "name": "Dr. Anil Behl",
+      "website": "www.blkhospital.com"
+    },
+    "clinic_contact": "+91 11 3040 3040",
+    "doctor_fee": 1800,
+    "medicine_cost": 3000,
+    "hospital_admission_cost": 50000,
+    "precautions": [
+      "Use sunscreen",
+      "Avoid tanning beds",
+      "Cover skin in sun",
+      "Regular mole check",
+      "Hydrate skin"
+    ],
+    "prevention": [
+      "Wear protective clothing",
+      "Avoid sun between 10–4",
+      "Use SPF 30+ daily",
+      "Avoid direct UV exposure",
+      "Stay in shade"
+    ],
+    "past_disease_match": ["Sunburn", "Moles"],
+    "surgery_match": ["Excision surgery", "Mohs surgery"]
+  },
+  {
+    "name": "Lung Cancer",
+    "category": "Chronic",
+    "symptoms": [
+      "Cough", "Chest pain", "Hoarseness", "Weight loss", "Short breath",
+      "Bloody sputum", "Wheezing", "Bone pain", "Headache", "Fatigue"
+    ],
+    "best_hospital": "Tata Memorial Hospital, Mumbai",
+    "hospital_expenses": {
+      "doctor_fees": 2200,
+      "medicine_cost": 7000,
+      "hospital_admission": 95000,
+      "clinic_consultation": 2200,
+      "total_estimated_cost": 97200
+    },
+    "precautions": [
+      "Avoid smoking",
+      "Protective gear in pollution",
+      "Regular checkup",
+      "Avoid second-hand smoke",
+      "Lung health exercises"
+    ],
+    "prevention": [
+      "Quit tobacco",
+      "Avoid asbestos",
+      "Radon testing at home",
+      "Healthy diet",
+      "Exercise"
+    ],
+    "best_doctor": {
+      "name": "Dr. Suresh Advani",
+      "address": "Tata Memorial Centre (TMC), Mumbai",
+      "website": "https://www.tmcmumbai.org"
+    },
+     "clinic_contact": "+91 22 2417 7000",
+     "past_disease_match": ["COPD", "Chronic Bronchitis"],
+     "surgery_match": ["Lobectomy", "Pneumonectomy"]
+  },
+  {
+    "name": "Kidney Stones",
+    "category": "General",
+    "symptoms": [
+      "Severe back pain", "Painful urination", "Blood in urine", "Nausea", "Fever",
+      "Cloudy urine", "Frequent urination", "Vomiting", "Chills", "Urine smell"
+    ],
+    "best_hospital": "CMC Vellore",
+    "hospital_expenses": {
+      "doctor_fees": 1000,
+      "medicine_cost": 1800,
+      "hospital_admission": 32000,
+      "clinic_consultation": 1000,
+      "total_estimated_cost": 34800
+    },
+    "precautions": [
+      "Drink plenty water",
+      "Avoid high oxalate foods",
+      "Limit salt",
+      "Avoid soda",
+      "Follow doctor diet"
+    ],
+    "prevention": [
+      "Hydration",
+      "Low sodium diet",
+      "Calcium intake balance",
+      "Avoid stone-trigger foods",
+      "Avoid dehydration"
+    ],
+    "best_doctor": {
+     "name": "Dr. George K. John",
+     "address": "Christian Medical College (CMC), Vellore",
+     "website": "https://www.cmch-vellore.edu"
+      
+    },
+    "clinic_contact": "+91 416 228 1000",
+    "past_disease_match": ["UTI", "Hyperparathyroidism"],
+    "surgery_match": ["Lithotripsy", "Ureteroscopy"]
+  },
+  {
+    "name": "UTI (Urinary Tract Infection)",
+    "category": "General",
+    "symptoms": [
+      "Burning urination", "Urgency", "Frequency", "Cloudy urine", "Pelvic pain",
+      "Strong smell", "Blood in urine", "Fever", "Chills", "Fatigue"
+    ],
+    "best_hospital": "Kokilaben Dhirubhai Ambani Hospital, Mumbai",
+    "hospital_expenses": {
+      "doctor_fees": 1000,
+      "medicine_cost": 900,
+      "hospital_admission": 10000,
+      "clinic_consultation": 1000,
+      "total_estimated_cost": 11900
+    },
+    "precautions": [
+      "Drink water",
+      "Wipe front to back",
+      "Avoid irritants",
+      "Urinate after intercourse",
+      "Avoid tight clothing"
+    ],
+    "prevention": [
+      "Stay hydrated",
+      "Hygiene",
+      "Cranberry juice",
+      "Avoid harsh soaps",
+      "Empty bladder fully"
+    ],
+    "best_doctor": {
+      "name": "Dr. Shyam Bansal",
+      "address": "Kokilaben Dhirubhai Ambani Hospital, Mumbai",
+      "website": "https://www.kokilabenhospital.com"
+    },
+    "clinic_contact": "+91 22 3099 9999",
+    "past_disease_match": [
+      "Kidney stones",
+      "Diabetes",
+      "Urinary catheter use",
+      "Bladder infections"
+    ],
+    "surgery_match": [
+      "Urinary tract surgery",
+      "Bladder stent placement"
+    ]
+  },
+  {
+    "name": "Psoriasis",
+    "category": "Skin",
+    "symptoms": [
+      "Red patches", "Scaling", "Itching", "Burning", "Dry skin",
+      "Cracked skin", "Thick nails", "Swollen joints", "Fatigue", "Inflammation"
+    ],
+    "best_hospital": "PGIMER, Chandigarh",
+    "hospital_expenses": {
+      "doctor_fees": 1000,
+      "medicine_cost": 2200,
+      "hospital_admission": 25000,
+      "clinic_consultation": 1000,
+      "total_estimated_cost": 28200
+    },
+    "precautions": [
+      "Moisturize regularly",
+      "Avoid triggers",
+      "Gentle skin care",
+      "UV therapy",
+      "Reduce stress"
+    ],
+    "prevention": [
+      "Maintain healthy weight",
+      "Avoid alcohol",
+      "Quit smoking",
+      "Good skincare",
+      "Early treatment"
+    ],
+    "best_doctor": {
+      "name": "Dr. Sunil Dogra",
+      "address": "Postgraduate Institute of Medical Education and Research (PGIMER), Chandigarh",
+      "website": "https://www.pgimer.edu.in"
+    },
+    "clinic_contact": "+91 172 274 7585",
+    "past_disease_match": [
+      "Rheumatoid arthritis",
+      "Eczema",
+      "Autoimmune disorders",
+      "HIV"
+    ],
+    "surgery_match": [
+      "Skin biopsy",
+      "Laser therapy"
+    ]
+  },
+  {
+    "name": "Chronic Kidney Disease (CKD)",
+    "category": "Chronic",
+    "symptoms": [
+      "Fatigue", "Swollen ankles", "Shortness of breath", "Nausea", "Confusion",
+      "Chest pain", "Poor appetite", "Dry skin", "High blood pressure", "Frequent urination at night"
+    ],
+    "best_hospital": "AIIMS, New Delhi",
+    "hospital_expenses": {
+      "doctor_fees": 1500,
+      "medicine_cost": 2000,
+      "hospital_admission": 25000,
+      "clinic_consultation": 1500,
+      "total_estimated_cost": 28500
+    },
+    "precautions": [
+      "Limit sodium and potassium intake",
+      "Monitor blood pressure",
+      "Stay hydrated",
+      "Avoid NSAIDs",
+      "Regular check-ups"
+    ],
+    "prevention": [
+      "Control diabetes and hypertension",
+      "Maintain healthy weight",
+      "Avoid smoking",
+      "Exercise regularly",
+      "Healthy kidney diet"
+    ],
+    "best_doctor": {
+      "name": "Dr. Sanjeev Gulati",
+      "address": "All India Institute of Medical Sciences (AIIMS), New Delhi",
+      "website": "https://www.aiims.edu"
+    },
+    "clinic_contact": "011-26588500",
+    "past_disease_match": [
+      "Diabetes",
+      "Hypertension",
+      "Polycystic kidney disease",
+      "Glomerulonephritis"
+    ],
+    "surgery_match": [
+      "Kidney transplant",
+      "Dialysis access surgery"
+    ]
+  },
+  {
+    "name": "Glaucoma",
+    "category": "Eye Disease",
+    "symptoms": [
+      "Eye pain", "Blurred vision", "Headache", "Halos around lights", "Nausea",
+      "Vomiting", "Tunnel vision", "Red eyes", "Eye pressure"
+    ],
+    "best_hospital": "Sankara Nethralaya, Chennai",
+    "hospital_expenses": {
+      "doctor_fees": 800,
+      "medicine_cost": 1000,
+      "hospital_admission": 10000,
+      "clinic_consultation": 800,
+      "total_estimated_cost": 11800
+    },
+    "precautions": [
+      "Regular eye exams",
+      "Take prescribed eye drops",
+      "Use protective eyewear",
+      "Exercise safely",
+      "Avoid head-down yoga positions"
+    ],
+    "prevention": [
+      "Early screening",
+      "Control diabetes",
+      "Family history awareness",
+      "Maintain healthy weight",
+      "Avoid steroid overuse"
+    ],
+    "best_doctor": {
+      "name": "Dr. L. Vijaya",
+      "address": "Sankara Nethralaya, Chennai",
+      "website": "https://www.sankaranethralaya.org"
+    },
+    "clinic_contact": "044-42271500",
+    "past_disease_match": [
+      "Diabetes",
+      "Hypertension",
+      "Migraines"
+    ],
+    "surgery_match": [
+      "Cataract surgery",
+      "Eye trauma surgery"
+    ]
+  },
+  {
+    "name": "Acne",
+    "category": "Skin",
+    "symptoms": [
+      "Pimples", "Blackheads", "Whiteheads", "Red spots", "Pus-filled lesions",
+      "Oily skin", "Scarring", "Inflammation", "Facial redness"
+    ],
+    "best_hospital": "Kaya Skin Clinic, Mumbai",
+    "hospital_expenses": {
+      "doctor_fees": 700,
+      "medicine_cost": 500,
+      "hospital_admission": 0,
+      "clinic_consultation": 700,
+      "total_estimated_cost": 1200
+    },
+    "precautions": [
+      "Wash face twice daily",
+      "Avoid touching face",
+      "Use non-comedogenic products",
+      "Avoid oily cosmetics",
+      "Don't pop pimples"
+    ],
+    "prevention": [
+      "Balanced diet",
+      "Manage stress",
+      "Proper hygiene",
+      "Avoid dairy and sugar overload",
+      "Regular hydration"
+    ],
+    "best_doctor": {
+      "name": "Dr. Aparna Santhanam",
+      "address": "Kaya Skin Clinic, India",
+      "website": "https://www.kayaclinic.com"
+    },
+    "clinic_contact": "1800-209-5292",
+    "past_disease_match": [
+      "Polycystic Ovary Syndrome (PCOS)",
+      "Hormonal imbalance",
+      "Digestive disorders"
+    ],
+    "surgery_match": [
+      "Facial cosmetic surgery",
+      "Laser skin resurfacing",
+      "Chemical peels"
+    ]
+  },
+  {
+    "name": "Astigmatism",
+    "category": "Eye",
+    "symptoms": [
+      "Blurred vision",
+      "Eye strain",
+      "Headaches",
+      "Difficulty seeing at night",
+      "Squinting",
+      "Double vision",
+      "Distorted images"
+    ],
+    "best_hospital": "LV Prasad Eye Institute, Hyderabad",
+    "hospital_expenses": {
+      "doctor_fees": 900,
+      "medicine_cost": 500,
+      "hospital_admission": 7000,
+      "clinic_consultation": 900,
+      "total_estimated_cost": 8400
+    },
+    "precautions": [
+      "Use correct glasses",
+      "Regular eye exams",
+      "Avoid screen overuse",
+      "Blink frequently",
+      "Use eye drops if prescribed"
+    ],
+    "prevention": [
+      "Protective eyewear",
+      "Early screening",
+      "Healthy diet",
+      "Stay hydrated",
+      "Maintain eye hygiene"
+    ],
+    "best_doctor": {
+      "name": "Dr. Gullapalli N Rao",
+      "address": "LV Prasad Eye Institute, Hyderabad, India",
+      "website": "https://www.lvpei.org"
+    },
+    "clinic_contact": "040-30612100",
+    "past_disease_match": [
+      "Myopia",
+      "Hyperopia",
+      "Eye injuries",
+      "Keratoconus"
+    ],
+    "surgery_match": [
+      "Laser eye surgery (LASIK)",
+      "Toric lens implantation",
+      "Photorefractive keratectomy (PRK)"
+    ]
+  },
+  {
+    "name": "Sinusitis",
+    "category": "ENT",
+    "symptoms": [
+      "Facial pain",
+      "Nasal congestion",
+      "Headache",
+      "Postnasal drip",
+      "Cough",
+      "Fatigue",
+      "Bad breath",
+      "Pressure around eyes"
+    ],
+    "best_hospital": "Manipal Hospital, Bengaluru",
+    "hospital_expenses": {
+      "doctor_fees": 1000,
+      "medicine_cost": 800,
+      "hospital_admission": 15000,
+      "clinic_consultation": 1000,
+      "total_estimated_cost": 16800
+    },
+    "precautions": [
+      "Stay hydrated",
+      "Use humidifier",
+      "Avoid allergens",
+      "Proper nasal hygiene",
+      "Follow antibiotics properly"
+    ],
+    "prevention": [
+      "Boost immunity",
+      "Avoid smoke",
+      "Wash hands regularly",
+      "Treat colds early",
+      "Allergy management"
+    ],
+    "best_doctor": {
+      "name": "Dr. Shankar B. Medikeri",
+      "address": "Manipal Hospitals, Bengaluru, India",
+      "website": "https://www.manipalhospitals.com"
+    },
+    "clinic_contact": "080-22221111",
+    "past_disease_match": [
+      "Allergic rhinitis",
+      "Deviated nasal septum",
+      "Chronic cold",
+      "Asthma"
+    ],
+    "surgery_match": [
+      "Functional endoscopic sinus surgery (FESS)",
+      "Balloon sinuplasty",
+      "Septoplasty"
+    ]
+  },
+  {
+  "name": "Parkinson's Disease",
+  "category": "Neurological",
+  "symptoms": [
+    "Tremors",
+    "Slow movement",
+    "Stiffness",
+    "Imbalance",
+    "Difficulty walking",
+    "Reduced facial expression",
+    "Slurred speech",
+    "Fatigue",
+    "Confusion",
+    "Insomnia"
+  ],
+  "best_hospital": "NIMHANS, Bangalore",
+  "hospital_expenses": {
+    "doctor_fees": 1200,
+    "medicine_cost": 3000,
+    "hospital_admission": 35000,
+    "clinic_consultation": 1200,
+    "total_estimated_cost": 39200
+  },
+  "precautions": [
+    "Regular physiotherapy",
+    "Avoid sudden movement",
+    "Timely medication",
+    "Avoid stress",
+    "Daily check-ups"
+  ],
+  "prevention": [
+    "Exercise",
+    "Healthy diet",
+    "Avoid head injuries",
+    "Avoid pesticide exposure",
+    "Avoid drug abuse"
+  ],
+  "best_doctor": {
+    "name": "Dr. Pramod Kumar Pal",
+    "address": "Department of Neurology, NIMHANS, Hosur Road, Bengaluru, Karnataka, India",
+    "website": "https://www.nimhans.ac.in"
+  },
+  "clinic_contact": "+91 80 2699 5000",
+  "past_disease_match": [
+    "Essential Tremor",
+    "Multiple System Atrophy",
+    "Stroke",
+    "Alzheimer's Disease",
+    "Lewy Body Dementia"
+  ],
+  "surgery_match": [
+    "Deep Brain Stimulation (DBS)",
+    "Thalamotomy",
+    "Pallidotomy"
+  ]
+},
+{
+  "name": "GERD (Acid Reflux)",
+  "category": "Digestive",
+  "symptoms": [
+    "Heartburn",
+    "Regurgitation",
+    "Chest pain",
+    "Difficulty swallowing",
+    "Chronic cough",
+    "Hoarseness",
+    "Sore throat"
+  ],
+  "best_hospital": "Max Super Speciality Hospital, Delhi",
+  "clinic_contact": "011-26515050",
+  "best_doctor": {
+    "name": "Dr. Nikhil Agrawal",
+    "address": "Max Super Speciality Hospital, Saket, New Delhi – 110017, India",
+    "website": "https://www.maxhealthcare.in"
+  },
+  "hospital_expenses": {
+    "doctor_fees": 1200,
+    "medicine_cost": 900,
+    "hospital_admission_cost": 12000,
+    "total_estimated_cost": 14100
+  },
+  "precautions": [
+    "Avoid spicy food",
+    "Elevate head while sleeping",
+    "Eat small meals",
+    "Do not lie down after eating",
+    "Avoid caffeine/alcohol"
+  ],
+  "prevention": [
+    "Maintain healthy weight",
+    "Avoid smoking",
+    "Reduce stress",
+    "Eat slowly",
+    "Wear loose clothing"
+  ],
+  "past_disease_match": [
+    "Hiatal hernia",
+    "Obesity",
+    "Asthma",
+    "Diabetes",
+    "Peptic ulcers",
+    "Gastroparesis",
+    "Scleroderma",
+    "Zollinger-Ellison syndrome"
+  ],
+  "surgery_match": [
+    "Nissen fundoplication",
+    "Hiatal hernia repair",
+    "Endoscopic fundoplication",
+    "LINX Reflux Management System",
+    "Transoral incisionless fundoplication (TIF)"
+  ]
+ },
+  {
+    "name": "Bronchitis",
+    "category": "Respiratory",
+    "symptoms": [
+      "Cough with mucus",
+      "Fatigue",
+      "Shortness of breath",
+      "Mild fever",
+      "Chest discomfort"
+    ],
+    "best_hospital": "Sir Ganga Ram Hospital, Delhi",
+    "clinic_contact": "011-25750000",
+    "best_doctor": {
+      "name": "Dr. Arup Basu",
+      "address": "Sir Ganga Ram Hospital, Old Rajinder Nagar, New Delhi – 110060, India",
+      "website": "https://www.sgrh.com"
+    },
+    "hospital_expenses": {
+      "doctor_fees": 1000,
+      "medicine_cost": 1200,
+      "hospital_admission_cost": 18000,
+      "total_estimated_cost": 20200
+    },
+    "precautions": [
+      "Avoid pollutants",
+      "Stay hydrated",
+      "Use a humidifier",
+      "Rest well",
+      "Follow inhaler use"
+    ],
+    "prevention": [
+      "Quit smoking",
+      "Vaccinate for flu",
+      "Hand hygiene",
+      "Avoid allergens",
+      "Wear a mask outdoors"
+    ],
+    "past_disease_match": [
+      "Asthma",
+      "Chronic Obstructive Pulmonary Disease (COPD)",
+      "Common cold",
+      "Sinusitis",
+      "Pneumonia"
+    ],
+    "surgery_match": [
+      "Lung biopsy",
+      "Sinus surgery",
+      "Tonsillectomy"
+    ]
+  },
+  {
+    "name": "Food Poisoning",
+    "category": "Digestive",
+    "symptoms": [
+      "Vomiting",
+      "Diarrhea",
+      "Stomach cramps",
+      "Fever",
+      "Weakness",
+      "Headache",
+      "Dehydration"
+    ],
+    "best_hospital": "Medanta – The Medicity, Gurgaon",
+    "clinic_contact": "0124-4141414",
+    "best_doctor": {
+      "name": "Dr. Sushila Kataria",
+      "address": "Medanta - The Medicity, Sector 38, Gurugram, Haryana 122001, India",
+      "website": "https://www.medanta.org"
+    },
+    "hospital_expenses": {
+      "doctor_fees": 1000,
+      "medicine_cost": 500,
+      "hospital_admission_cost": 5000,
+      "total_estimated_cost": 6500
+    },
+    "precautions": [
+      "Drink clean water",
+      "Eat hygienic food",
+      "Wash fruits/vegetables",
+      "Store food properly",
+      "Avoid street food"
+    ],
+    "prevention": [
+      "Handwashing",
+      "Clean kitchen utensils",
+      "Do not eat raw eggs/meat",
+      "Refrigerate leftovers",
+      "Food safety awareness"
+    ],
+    "past_disease_match": [
+      "Gastroenteritis",
+      "Irritable Bowel Syndrome (IBS)",
+      "Stomach flu",
+      "Helicobacter pylori infection",
+      "Lactose intolerance"
+    ],
+    "surgery_match": [
+      "Appendectomy",
+      "Gallbladder removal",
+      "Bowel resection"
+    ]
+  },
+ {
+  "name": "Parkinson’s Disease",
+  "category": "Neurological",
+  "symptoms": [
+    "Tremors", "Slow movement", "Stiffness", "Imbalance", "Difficulty walking",
+    "Reduced facial expression", "Slurred speech", "Fatigue", "Confusion", "Insomnia"
+  ],
+  "best_hospital": "NIMHANS, Bangalore",
+  "clinic_contact": "+91 80 2699 5000",
+  "best_doctor": {
+    "name": "Dr. Pramod Kumar Pal",
+    "address": "National Institute of Mental Health and Neurosciences (NIMHANS), Hosur Road, Bengaluru, Karnataka 560029, India",
+    "website": "https://www.nimhans.ac.in"
+  },
+  "hospital_expenses": {
+    "doctor_fees": 1200,
+    "medicine_cost": 3000,
+    "hospital_admission_cost": 35000,
+    "total_estimated_cost": 39200
+  },
+  "precautions": [
+    "Regular physiotherapy", "Avoid sudden movement", "Timely medication",
+    "Avoid stress", "Daily check-ups"
+  ],
+  "prevention": [
+    "Exercise", "Healthy diet", "Avoid head injuries",
+    "Avoid pesticide exposure", "Avoid drug abuse"
+  ],
+  "past_disease_match": [
+    "Stroke",
+    "Encephalitis",
+    "Traumatic Brain Injury",
+    "Multiple System Atrophy",
+    "Lewy Body Dementia"
+  ],
+  "surgery_match": [
+    "Deep Brain Stimulation (DBS)",
+    "Pallidotomy",
+    "Thalamotomy"
+  ]
+ },
+ {
+  "name": "PCOS (Polycystic Ovary Syndrome)",
+  "category": "Women’s Health",
+  "symptoms": [
+    "Irregular periods", "Weight gain", "Acne", "Excess hair growth",
+    "Hair thinning", "Pelvic pain", "Fatigue", "Infertility", "Darkened skin patches", "Mood swings"
+  ],
+  "best_hospital": "Cloudnine Hospital, Bengaluru",
+  "clinic_contact": "+91 99728 99728",
+  "best_doctor": {
+    "name": "Dr. Aruna Muralidhar",
+    "address": "Cloudnine Hospital, 1533, 9th Main, 3rd Block, Jayanagar, Bengaluru, Karnataka 560011, India",
+    "website": "https://www.cloudninecare.com"
+  },
+  "hospital_expenses": {
+    "doctor_fees": 800,
+    "medicine_cost": 1500,
+    "hospital_admission_cost": 25000,
+    "total_estimated_cost": 27300
+  },
+  "precautions": [
+    "Regular exercise", "Healthy diet", "Monitor cycle",
+    "Weight control", "Avoid junk food"
+  ],
+  "prevention": [
+    "Maintain BMI", "Low-sugar diet", "Physical activity",
+    "Routine check-ups", "Hormone monitoring"
+  ],
+  "past_disease_match": [
+    "Insulin Resistance",
+    "Obesity",
+    "Type 2 Diabetes",
+    "Thyroid disorders",
+    "Metabolic Syndrome"
+  ],
+  "surgery_match": [
+    "Ovarian Drilling",
+    "Laparoscopic Ovarian Surgery"
+  ]
+},
+{
+  "name": "Rheumatoid Arthritis",
+  "category": "Orthopedic",
+  "symptoms": [
+    "Joint pain",
+    "Swelling",
+    "Stiffness (especially in morning)",
+    "Fatigue",
+    "Low-grade fever",
+    "Weight loss",
+    "Numbness",
+    "Dry eyes",
+    "Inflamed joints",
+    "Reduced motion"
+  ],
+  "best_hospital": "AIIMS, New Delhi",
+  "clinic_contact": "011-26588500",
+  "best_doctor": {
+    "name": "Dr. Anoop C",
+    "address": "Department of Neurology, All India Institute of Medical Sciences (AIIMS), Ansari Nagar, New Delhi - 110029, India",
+    "website": "https://www.aiims.edu"
+  },
+  "hospital_expenses": {
+    "doctor_fees": 1000,
+    "medicine_cost": 2500,
+    "hospital_admission_cost": 30000,
+    "total_estimated_cost": 33500
+  },
+  "precautions": [
+    "Avoid cold exposure",
+    "Regular check-ups",
+    "Joint-friendly diet",
+    "Physiotherapy",
+    "Avoid stress"
+  ],
+  "prevention": [
+    "Stop smoking",
+    "Healthy weight",
+    "Omega-3 diet",
+    "Manage cholesterol",
+    "Early inflammation detection"
+  ],
+  "past_disease_match": [
+    "Lupus",
+    "Psoriasis",
+    "Type 1 Diabetes",
+    "Inflammatory Bowel Disease",
+    "Sjogren's Syndrome"
+  ],
+  "surgery_match": [
+    "Joint Replacement Surgery",
+    "Synovectomy",
+    "Tendon Repair",
+    "Joint Fusion",
+    "Arthroscopic Debridement"
+  ]
+},
+  {
+  "name": "Scabies",
+  "category": "Infectious/Skin",
+  "symptoms": [
+    "Intense itching (worse at night)",
+    "Rash",
+    "Sores",
+    "Crusted skin",
+    "Red bumps",
+    "Blisters",
+    "Burrow tracks",
+    "Skin infection",
+    "Swelling",
+    "Burning"
+  ],
+  "best_hospital": "Safdarjung Hospital, Delhi",
+  "clinic_contact": "011-26165060",
+  "best_doctor": {
+    "name": "Dr. Atul Taneja",
+    "address": "Department of Dermatology, Safdarjung Hospital, Ansari Nagar, New Delhi - 110029, India",
+    "website": "https://www.safdarjunghospital.gov.in"
+  },
+  "hospital_expenses": {
+    "doctor_fees": 300,
+    "medicine_cost": 500,
+    "hospital_admission_cost": 2000,
+    "total_estimated_cost": 2800
+  },
+  "precautions": [
+    "Wash clothes in hot water",
+    "Avoid skin contact",
+    "Don’t share bedding",
+    "Use prescribed lotion",
+    "Maintain hygiene"
+  ],
+  "prevention": [
+    "Sanitize clothes",
+    "Avoid infected people",
+    "Use clean towels",
+    "Quick treatment",
+    "Isolate if infected"
+  ],
+  "past_disease_match": [
+    "Eczema",
+    "Contact Dermatitis",
+    "Psoriasis",
+    "Impetigo",
+    "Fungal Skin Infection"
+  ],
+  "surgery_match": [
+    "Skin scraping for diagnosis",
+    "Topical excision (in extreme secondary infections)",
+    "Wound debridement (if severe crusting present)"
+  ]
+},
+  {
+  "name": "Sinusitis",
+  "category": "General/ENT",
+  "symptoms": [
+    "Facial pain",
+    "Nasal congestion",
+    "Headache",
+    "Fatigue",
+    "Postnasal drip",
+    "Cough",
+    "Sore throat",
+    "Bad breath",
+    "Pressure behind eyes",
+    "Fever"
+  ],
+  "best_hospital": "Apollo Hospitals, Chennai",
+  "clinic_contact": "044-28290200",
+  "best_doctor": {
+    "name": "Dr. M N Ghosh",
+    "address": "Apollo Gleneagles Hospitals, 58, Canal Circular Road, Kadapara, Kolkata - 700054, West Bengal, India",
+    "website": "https://www.apollohospitals.com"
+  },
+  "hospital_expenses": {
+    "doctor_fees": 600,
+    "medicine_cost": 1200,
+    "hospital_admission_cost": 15000,
+    "total_estimated_cost": 16800
+  },
+  "precautions": [
+    "Steam inhalation",
+    "Avoid allergens",
+    "Hydrate well",
+    "Rest",
+    "Use nasal spray"
+  ],
+  "prevention": [
+    "Avoid smoking",
+    "Avoid cold air",
+    "Hand hygiene",
+    "Avoid pollutants",
+    "Treat colds early"
+  ],
+  "past_disease_match": [
+    "Common Cold",
+    "Allergic Rhinitis",
+    "Deviated Nasal Septum",
+    "Asthma",
+    "Nasal Polyps"
+  ],
+  "surgery_match": [
+    "Functional Endoscopic Sinus Surgery (FESS)",
+    "Septoplasty",
+    "Balloon Sinuplasty"
+  ]
+},
+ {
+  "name": "Sleep Apnea",
+  "category": "Respiratory/Neurological",
+  "symptoms": [
+    "Snoring",
+    "Breathing pauses during sleep",
+    "Morning headache",
+    "Dry mouth",
+    "Fatigue",
+    "Insomnia",
+    "Irritability",
+    "Memory issues",
+    "Concentration problems",
+    "Depression"
+  ],
+  "best_hospital": "Fortis Hospital, Noida",
+  "clinic_contact": "+91 11 4530 2222",
+  "best_doctor": {
+    "name": "Dr. Arvind Rajwanshi",
+    "address": "Fortis Memorial Research Institute, Sector 44, Gurugram, Haryana, India",
+    "website": "https://www.fortishealthcare.com"
+  },
+  "hospital_expenses": {
+    "doctor_fees": 1000,
+    "medicine_cost": 3500,
+    "hospital_admission_cost": 20000,
+    "total_estimated_cost": 24500
+  },
+  "precautions": [
+    "Use CPAP machine",
+    "Avoid alcohol",
+    "Sleep on side",
+    "Maintain weight",
+    "Regular sleep schedule"
+  ],
+  "prevention": [
+    "Avoid smoking",
+    "Control blood pressure",
+    "Sleep hygiene",
+    "Lose weight",
+    "Avoid sedatives"
+  ],
+  "past_disease_match": [
+    "Obesity",
+    "Hypertension",
+    "Type 2 Diabetes",
+    "Insomnia",
+    "Heart Disease"
+  ],
+  "surgery_match": [
+    "Uvulopalatopharyngoplasty (UPPP)",
+    "Nasal Septoplasty",
+    "Maxillomandibular Advancement",
+    "Hypoglossal Nerve Stimulation"
+  ]
+},
+{
+  "name": "Insomnia",
+  "category": "Mental Health",
+  "symptoms": [
+    "Difficulty sleeping",
+    "Daytime fatigue",
+    "Poor focus",
+    "Mood changes",
+    "Waking early"
+  ],
+  "best_hospital": "NIMHANS, Bengaluru",
+  "clinic_contact": "+91-80-26995000",
+  "best_doctor": {
+    "name": "Dr. B.N. Gangadhar",
+    "address": "National Institute of Mental Health and Neurosciences (NIMHANS), Hosur Road, Bengaluru, Karnataka, India",
+    "website": "https://www.nimhans.ac.in"
+  },
+  "hospital_expenses": {
+    "doctor_fees": 500,
+    "medicine_cost": 300,
+    "hospital_admission_cost": 1000,
+    "meals_cost": 300,
+    "bed_charges": 700,
+    "total_estimated_cost": 2800
+  },
+  "precautions": [
+    "Avoid caffeine at night",
+    "Do not use phones before bed",
+    "Fixed sleep schedule",
+    "Avoid alcohol",
+    "Quiet sleep environment"
+  ],
+  "prevention": [
+    "Regular physical activity",
+    "Mindfulness or meditation",
+    "Warm baths before bed",
+    "Light dinners",
+    "Avoid late naps"
+  ],
+  "past_disease_match": [
+    "Anxiety",
+    "Depression",
+    "Sleep Apnea",
+    "Chronic Pain",
+    "Restless Leg Syndrome"
+  ],
+  "surgery_match": [
+    "Deep Brain Stimulation (DBS)",
+    "Transcranial Magnetic Stimulation (TMS)"
+  ]
+},
+{
+  "name": "Leptospirosis",
+  "category": "Infectious",
+  "symptoms": [
+    "High fever",
+    "Vomiting",
+    "Red eyes",
+    "Muscle aches",
+    "Diarrhea"
+  ],
+  "best_hospital": "KEM Hospital, Mumbai",
+  "clinic_contact": "+91-22-24107000",
+  "best_doctor": {
+    "name": "Dr. Nandita Mehta",
+    "address": "King Edward Memorial Hospital (KEM), Mumbai, Maharashtra, India",
+    "website": "https://www.kem.edu"
+  },
+  "hospital_expenses": {
+    "doctor_fees": 600,
+    "medicine_cost": 1000,
+    "hospital_admission_cost": 6000,
+    "total_estimated_cost": 7600
+  },
+  "precautions": [
+    "Avoid contact with flood water",
+    "Wear boots/gloves",
+    "Maintain hygiene",
+    "Drink clean water",
+    "Avoid swimming in contaminated water"
+  ],
+  "prevention": [
+    "Proper sewage disposal",
+    "Rodent control",
+    "Vaccinate pets",
+    "Wear protective gear",
+    "Disinfect surroundings"
+  ],
+  "past_disease_match": [
+    "Fever",
+    "Jaundice",
+    "Typhoid"
+  ],
+  "surgery_match": [
+    "Dialysis (for kidney failure)",
+    "Liver biopsy (if liver damage suspected)"
+  ]
+},
+{
+  "name": "Japanese Encephalitis",
+  "category": "Infectious/Neurological",
+  "symptoms": [
+    "Fever",
+    "Vomiting",
+    "Confusion",
+    "Seizures",
+    "Stiff neck"
+  ],
+  "best_hospital": "NIMHANS, Bangalore",
+  "clinic_contact": "+91-80-26995001",
+  "best_doctor": {
+    "name": "Dr. Meena Rao",
+    "address": "National Institute of Mental Health and Neurosciences (NIMHANS), Bengaluru, Karnataka, India",
+    "website": "https://www.nimhans.ac.in"
+  },
+  "hospital_expenses": {
+    "doctor_fees": 1000,
+    "medicine_cost": 1500,
+    "hospital_admission_cost": 10000,
+    "total_estimated_cost": 12500
+  },
+  "precautions": [
+    "Avoid mosquito bites",
+    "Clean surroundings",
+    "Take proper sleep",
+    "Monitor neurological signs",
+    "Seek treatment early"
+  ],
+  "prevention": [
+    "JE vaccination",
+    "Mosquito nets",
+    "Public health programs",
+    "Awareness drives",
+    "Regular fogging"
+  ],
+  "past_disease_match": [
+    "Meningitis",
+    "Dengue",
+    "Malaria"
+  ],
+  "surgery_match": [
+    "Ventriculoperitoneal (VP) Shunt Surgery",
+    "Craniotomy for Brain Swelling",
+    "Decompressive Craniectomy"
+  ]
+ },
+ {
+    "name": "Diabetes Mellitus",
+    "category": "Chronic",
+    "symptoms": [
+      "Frequent urination",
+      "Increased thirst",
+      "Unexplained weight loss",
+      "Fatigue",
+      "Blurred vision",
+      "Slow-healing wounds",
+      "Frequent infections",
+      "Irritability",
+      "Numbness in hands/feet",
+      "Increased hunger"
+    ],
+    "best_hospital": "Apollo Hospitals, Chennai",
+    "clinic_contact": "+91-44-43968888",
+    "best_doctor": {
+     "name": "Dr. V. Mohan",
+     "address": "Dr. Mohan's Diabetes Specialities Centre, Chennai, Tamil Nadu, India",
+     "website": "https://www.drmohans.com"
+    },
+    "hospital_expenses": {
+      "doctor_fees": 900,
+      "medicine_cost": 2000,
+      "hospital_admission_cost": 21500,
+      "total_estimated_cost": 24400
+    },
+    "precautions": [
+      "Monitor blood sugar regularly",
+      "Avoid sugary and refined foods",
+      "Maintain regular exercise routine",
+      "Take insulin or medicine as prescribed",
+      "Attend regular check-ups"
+    ],
+    "prevention": [
+      "Maintain a healthy weight",
+      "Eat a balanced diet with whole grains",
+      "Stay physically active daily",
+      "Avoid smoking and alcohol",
+      "Manage stress levels"
+    ],
+    "past_disease_match": ["Gestational Diabetes", "Prediabetes", "Obesity"],
+    "surgery_match": ["Pancreas Surgery", "Bariatric Surgery"]
+  }
+]
+
+    
+
+
