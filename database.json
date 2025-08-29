@@ -17,7 +17,7 @@
   
   "best_hospital": "AIIMS Delhi",
   "hospital_cost_breakup": {
-    "doctor_fee": 1000,
+    "doctor_fees": 1000,
     "medicine_cost": 2000,
     "bed_charges": 3000,
     "meals": 800,
