@@ -546,10 +546,10 @@
       "Brittle nails"
     ],
     "best_hospital": "AIIMS Delhi",
-    "hospital_admission_cost": 7500,
+    "hospital_cost_breakup":{
     "medicine_cost": 900,
     "doctor_fees": 600,
-    "estimated_total_cost": 9000,
+    "estimated_total_cost": 9000 },
     "precautions": [
       "Take iron supplements regularly",
       "Avoid tea/coffee after iron intake",
@@ -590,7 +590,7 @@
       "Fever", "Bloating", "Headache", "Fatigue", "Loss of appetite"
     ],
     "best_hospital": "Fortis Hospital, Noida",
-    "hospital_admission_cost": 5000,
+    "hospital_cost_breakup": 5000,
     "medicine_cost": 600,
     "doctor_fees": 500,
     "estimated_total_cost": 6100,
@@ -625,7 +625,7 @@
       "Hoarseness", "Ear pain", "Bad breath", "Fatigue", "Swollen lymph nodes"
     ],
     "best_hospital": "Apollo Hospital, Chennai",
-    "hospital_admission_cost": 10000,
+    "hospital_cost_breakup": 10000,
     "medicine_cost": 700,
     "doctor_fees": 600,
     "estimated_total_cost": 11300,
@@ -676,7 +676,7 @@
     "hospital_expenses": {
       "doctor_fees": 400,
       "medicine_cost": 800,
-      "hospital_admission_cost": 6500,
+      "hospital_cost_breakup": 6500,
       "estimated_total_cost": 7700
     },
     "precautions": [
@@ -711,7 +711,7 @@
     "hospital_expenses": {
       "doctor_fees": 800,
       "medicine_cost": 2500,
-      "hospital_admission_cost": 12000,
+      "hospital_cost_breakup": 12000,
       "estimated_total_cost": 15300
     },
     "precautions": [
@@ -760,7 +760,7 @@
     "hospital_expenses": {
       "doctor_fees": 900,
       "medicine_cost": 3000,
-      "hospital_admission_cost": 14000,
+      "hospital_cost_breakup": 14000,
       "estimated_total_cost": 17900
     },
     "precautions": [
@@ -809,7 +809,7 @@
     "hospital_expenses": {
       "doctor_fees": 600,
       "medicine_cost": 900,
-      "hospital_admission_cost": 7000,
+      "hospital_cost_breakup": 7000,
       "estimated_total_cost": 8500
     },
     "precautions": [
@@ -858,7 +858,7 @@
     "hospital_expenses": {
       "doctor_fees": 1000,
       "medicine_cost": 2000,
-      "hospital_admission_cost": 15000,
+      "hospital_cost_breakup": 15000,
       "estimated_total_cost": 18000
     },
     "precautions": [
@@ -907,7 +907,7 @@
     "hospital_expenses": {
       "doctor_fees": 1000,
       "medicine_cost": 5000,
-      "hospital_admission_cost": 8000,
+      "hospital_cost_breakup": 8000,
       "estimated_total_cost": 14000
     },
     "precautions": [
@@ -956,7 +956,7 @@
     "hospital_expenses": {
       "doctor_fees": 700,
       "medicine_cost": 800,
-      "hospital_admission_cost": 12000,
+      "hospital_cost_breakup": 12000,
       "estimated_total_cost": 13500
     },
     "precautions": [
@@ -1005,7 +1005,7 @@
     "hospital_expenses": {
       "doctor_fees": 1200,
       "medicine_cost": 2500,
-      "hospital_admission_cost": 125000,
+      "hospital_cost_breakup": 125000,
       "estimated_total_cost": 128700
     },
     "precautions": [
@@ -1054,7 +1054,7 @@
     "hospital_expenses": {
       "doctor_fees": 600,
       "medicine_cost": 1000,
-      "hospital_admission_cost": 10000,
+      "hospital_cost_breakup": 10000,
       "estimated_total_cost": 11600
     },
     "precautions": [
@@ -1103,7 +1103,7 @@
     "hospital_expenses": {
       "doctor_fees": 700,
       "medicine_cost": 1200,
-      "hospital_admission_cost": 6000,
+      "hospital_cost_breakup": 6000,
       "estimated_total_cost": 7900
     },
     "precautions": [
@@ -1152,7 +1152,7 @@
     "hospital_expenses": {
       "doctor_fees": 600,
       "medicine_cost": 800,
-      "hospital_admission_cost": 9000,
+      "hospital_cost_breakup": 9000,
       "estimated_total_cost": 10400
     },
     "precautions": [
@@ -1199,7 +1199,7 @@
     "hospital_expenses": {
       "doctor_fees": 500,
       "medicine_cost": 2000,
-      "hospital_admission_cost": 15000,
+      "hospital_cost_breakup": 15000,
       "estimated_total_cost": 17500
     },
     "precautions": [
@@ -1249,7 +1249,7 @@
     "hospital_expenses": {
       "doctor_fees": 700,
       "medicine_cost": 1000,
-      "hospital_admission_cost": 18000,
+      "hospital_cost_breakup": 18000,
       "estimated_total_cost": 19700
     },
     "precautions": [
@@ -1299,7 +1299,7 @@
     "hospital_expenses": {
       "doctor_fees": 500,
       "medicine_cost": 2000,
-      "hospital_admission_cost": 22000,
+      "hospital_cost_breakup": 22000,
       "estimated_total_cost": 24500
     },
     "precautions": [
@@ -1344,7 +1344,7 @@
     "hospital_expenses": {
       "doctor_fees": 400,
       "medicine_cost": 600,
-      "hospital_admission_cost": 0,
+      "hospital_cost_breakup": 0,
       "estimated_total_cost": 1000
     },
     "precautions": [
@@ -1388,7 +1388,7 @@
     "hospital_expenses": {
       "doctor_fees": 600,
       "medicine_cost": 1200,
-      "hospital_admission_cost": 9000,
+      "hospital_cost_breakup": 9000,
       "estimated_total_cost": 10800
     },
     "precautions": [
@@ -1432,7 +1432,7 @@
     "hospital_expenses": {
       "doctor_fees": 1800,
       "medicine_cost": 3500,
-      "hospital_admission_cost": 65000,
+      "hospital_cost_breakup": 65000,
       "estimated_total_cost": 70300
     },
     "precautions": [
@@ -1481,7 +1481,7 @@
     "clinic_contact": "+91 22 2417 7000",
     "doctor_fees": 2000,
     "medicine_cost": 6000,
-    "hospital_admission_cost": 85000,
+    "hospital_cost_breakup": 85000,
     "precautions": [
       "Avoid radiation exposure",
       "Reduce cellphone use",
@@ -1514,7 +1514,7 @@
     "clinic_contact": "+91 11 2658 8500",
     "doctor_fees": 1200,
     "medicine_cost": 4000,
-    "hospital_admission_cost": 48000,
+    "hospital_cost_breakup": 48000,
     "precautions": [
       "Regular Pap smear",
       "Avoid multiple sexual partners",
@@ -1547,7 +1547,7 @@
     "clinic_contact": "+91 124 496 2200",
     "doctor_fees": 2000,
     "medicine_cost": 5500,
-    "hospital_admission_cost": 70000,
+    "hospital_cost_breakup": 70000,
     "precautions": [
       "Regular PSA test",
       "Healthy diet",
@@ -1580,7 +1580,7 @@
     "clinic_contact": "+91 11 3040 3040",
     "doctor_fees": 1800,
     "medicine_cost": 3000,
-    "hospital_admission_cost": 50000,
+    "hospital_cost_breakup": 50000,
     "precautions": [
       "Use sunscreen",
       "Avoid tanning beds",
@@ -2087,7 +2087,7 @@
   "hospital_expenses": {
     "doctor_fees": 1200,
     "medicine_cost": 900,
-    "hospital_admission_cost": 12000,
+    "hospital_cost_breakup": 12000,
     "total_estimated_cost": 14100
   },
   "precautions": [
@@ -2142,7 +2142,7 @@
     "hospital_expenses": {
       "doctor_fees": 1000,
       "medicine_cost": 1200,
-      "hospital_admission_cost": 18000,
+      "hospital_cost_breakup": 18000,
       "total_estimated_cost": 20200
     },
     "precautions": [
@@ -2194,7 +2194,7 @@
     "hospital_expenses": {
       "doctor_fees": 1000,
       "medicine_cost": 500,
-      "hospital_admission_cost": 5000,
+      "hospital_cost_breakup": 5000,
       "total_estimated_cost": 6500
     },
     "precautions": [
@@ -2241,7 +2241,7 @@
   "hospital_expenses": {
     "doctor_fees": 1200,
     "medicine_cost": 3000,
-    "hospital_admission_cost": 35000,
+    "hospital_cost_breakup": 35000,
     "total_estimated_cost": 39200
   },
   "precautions": [
@@ -2282,7 +2282,7 @@
   "hospital_expenses": {
     "doctor_fees": 800,
     "medicine_cost": 1500,
-    "hospital_admission_cost": 25000,
+    "hospital_cost_breakup": 25000,
     "total_estimated_cost": 27300
   },
   "precautions": [
@@ -2330,7 +2330,7 @@
   "hospital_expenses": {
     "doctor_fees": 1000,
     "medicine_cost": 2500,
-    "hospital_admission_cost": 30000,
+    "hospital_cost_breakup": 30000,
     "total_estimated_cost": 33500
   },
   "precautions": [
@@ -2387,7 +2387,7 @@
   "hospital_expenses": {
     "doctor_fees": 300,
     "medicine_cost": 500,
-    "hospital_admission_cost": 2000,
+    "hospital_cost_breakup": 2000,
     "total_estimated_cost": 2800
   },
   "precautions": [
@@ -2442,7 +2442,7 @@
   "hospital_expenses": {
     "doctor_fees": 600,
     "medicine_cost": 1200,
-    "hospital_admission_cost": 15000,
+    "hospital_cost_breakup": 15000,
     "total_estimated_cost": 16800
   },
   "precautions": [
@@ -2497,7 +2497,7 @@
   "hospital_expenses": {
     "doctor_fees": 1000,
     "medicine_cost": 3500,
-    "hospital_admission_cost": 20000,
+    "hospital_cost_breakup": 20000,
     "total_estimated_cost": 24500
   },
   "precautions": [
@@ -2548,7 +2548,7 @@
   "hospital_expenses": {
     "doctor_fees": 500,
     "medicine_cost": 300,
-    "hospital_admission_cost": 1000,
+    "hospital_cost_breakup": 1000,
     "meals_cost": 300,
     "bed_charges": 700,
     "total_estimated_cost": 2800
@@ -2599,7 +2599,7 @@
   "hospital_expenses": {
     "doctor_fees": 600,
     "medicine_cost": 1000,
-    "hospital_admission_cost": 6000,
+    "hospital_cost_breakup": 6000,
     "total_estimated_cost": 7600
   },
   "precautions": [
@@ -2646,7 +2646,7 @@
   "hospital_expenses": {
     "doctor_fees": 1000,
     "medicine_cost": 1500,
-    "hospital_admission_cost": 10000,
+    "hospital_cost_breakup": 10000,
     "total_estimated_cost": 12500
   },
   "precautions": [
@@ -2699,7 +2699,7 @@
     "hospital_expenses": {
       "doctor_fees": 900,
       "medicine_cost": 2000,
-      "hospital_admission_cost": 21500,
+      "hospital_cost_breakup": 21500,
       "total_estimated_cost": 24400
     },
     "precautions": [
