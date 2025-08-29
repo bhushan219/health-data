@@ -1479,7 +1479,7 @@
       "website": "www.tmcmumbai.org"
     },
     "clinic_contact": "+91 22 2417 7000",
-    "doctor_fee": 2000,
+    "doctor_fees": 2000,
     "medicine_cost": 6000,
     "hospital_admission_cost": 85000,
     "precautions": [
@@ -1512,7 +1512,7 @@
       "website": "www.aiims.edu"
     },
     "clinic_contact": "+91 11 2658 8500",
-    "doctor_fee": 1200,
+    "doctor_fees": 1200,
     "medicine_cost": 4000,
     "hospital_admission_cost": 48000,
     "precautions": [
@@ -1545,7 +1545,7 @@
       "website": "www.fortishealthcare.com"
     },
     "clinic_contact": "+91 124 496 2200",
-    "doctor_fee": 2000,
+    "doctor_fees": 2000,
     "medicine_cost": 5500,
     "hospital_admission_cost": 70000,
     "precautions": [
@@ -1578,7 +1578,7 @@
       "website": "www.blkhospital.com"
     },
     "clinic_contact": "+91 11 3040 3040",
-    "doctor_fee": 1800,
+    "doctor_fees": 1800,
     "medicine_cost": 3000,
     "hospital_admission_cost": 50000,
     "precautions": [
