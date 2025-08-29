@@ -479,325 +479,340 @@
     ]
   },
   {
-    "name": "Tuberculosis (TB)",
-    "category": "Infectious",
-    "symptoms": [
-      "Persistent cough",
-      "Chest pain",
-      "Blood in cough",
-      "Night sweats",
-      "Fever",
-      "Fatigue",
-      "Weight loss",
-      "Loss of appetite",
-      "Chills",
-      "Breathlessness"
-    ],
-    "best_hospital": "National Institute of TB and Respiratory Diseases, Delhi",
-    "hospital_cost_breakup": {
-      "doctor_fees": 500,
-      "medicine_cost": 1000,
-      "bed_charges": 2000,
-      "meals": 1300
-    },
-    "estimated_total_cost": 4800,
-    "precautions": [
-      "Complete full course",
-      "Avoid contact",
-      "Wear mask",
-      "Good ventilation",
-      "Regular checkups"
-    ],
-    "preventions": [
-      "BCG vaccine",
-      "Early treatment",
-      "Avoid closed space",
-      "Do not spit publicly"
-    ],
-    "best_doctor": {
-      "name": "Dr. S K Jindal",
-      "address": "National Institute of TB and Respiratory Diseases, Mehrauli, Delhi",
-      "website": "https://nitrd.nic.in"
-    },
-    "clinic_contact": "+91-11-26061678",
-    "past_disease_match": [
-      "HIV/AIDS",
-      "Chronic bronchitis",
-      "Silicosis"
-    ],
-    "surgery_match": [
-      "Lung surgery",
-      "Chest wall repair"
-    ]
-  },
-  {
-    "name": "Anemia",
-    "category": "Awareness",
-    "symptoms": [
-      "Fatigue",
-      "Pale skin",
-      "Shortness of breath",
-      "Dizziness",
-      "Cold hands and feet",
-      "Chest pain",
-      "Irregular heartbeat",
-      "Headache",
-      "Weakness",
-      "Brittle nails"
-    ],
-    "best_hospital": "AIIMS Delhi",
-    "hospital_cost_breakup":{
-    "medicine_cost": 900,
-    "doctor_fees": 600,
-    "estimated_total_cost": 9000 },
-    "precautions": [
-      "Take iron supplements regularly",
-      "Avoid tea/coffee after iron intake",
-      "Regular check-ups",
-      "Include leafy greens in diet",
-      "Manage heavy menstruation"
-    ],
-    "preventions": [
-      "Iron-rich diet",
-      "Deworming",
-      "Avoid alcohol",
-      "Vitamin C with meals",
-      "Treat underlying conditions"
-    ],
-    "best_doctor": {
-      "name": "Dr. Ramesh Sethi",
-      "address": "AIIMS",
-      "website": "www.aiims.edu"
-    },
-    "clinic_contact": "+91-11-26588500",
-    "past_disease_match": [
-      "Kidney disease",
-      "Thyroid disorder",
-      "Heavy menstruation",
-      "Malaria"
-    ],
-    "surgery_match": [
-      "Gastric bypass surgery",
-      "Colon resection",
-      "Cesarean section (C-section)"
-    ]
-  },
-  {
-    "name": "Gastroenteritis",
-    "category": "Awareness",
-    "symptoms": [
-      "Vomiting", "Diarrhea", "Stomach pain", "Dehydration", "Nausea",
-      "Fever", "Bloating", "Headache", "Fatigue", "Loss of appetite"
-    ],
-    "best_hospital": "Fortis Hospital, Noida",
-    "hospital_cost_breakup": 5000,
-    "medicine_cost": 600,
+  "name": "Tuberculosis (TB)",
+  "category": "Infectious",
+  "symptoms": [
+    "Persistent cough",
+    "Chest pain",
+    "Blood in cough",
+    "Night sweats",
+    "Fever",
+    "Fatigue",
+    "Weight loss",
+    "Loss of appetite",
+    "Chills",
+    "Breathlessness"
+  ],
+  "best_hospital": "National Institute of TB and Respiratory Diseases, Delhi",
+  "hospital_cost_breakup": {
     "doctor_fees": 500,
-    "estimated_total_cost": 6100,
-    "precautions": [
-      "Stay hydrated",
-      "Avoid street food",
-      "Use ORS",
-      "Eat light food",
-      "Maintain hygiene"
-    ],
-    "preventions": [
-      "Boiled water",
-      "Handwashing",
-      "Proper food storage",
-      "Avoid stale food",
-      "Sanitize utensils"
-    ],
-    "best_doctor": {
-      "name": "Dr. Neeraj Gupta",
-      "address": "Fortis Hospital",
-      "website": "www.fortishealthcare.com"
-    },
-    "clinic_contact": "+91-120-4300222",
-    "past_disease_match": ["Dehydration", "Acid reflux", "Food poisoning"],
-    "surgery_match": ["Appendectomy", "Gallbladder removal"]
+    "medicine_cost": 1000,
+    "bed_charges": 2000,
+    "meals": 1300
   },
-  {
-    "name": "Tonsillitis",
-    "category": "Awareness",
-    "symptoms": [
-      "Sore throat", "Difficulty swallowing", "Red/swollen tonsils", "Fever", "Headache",
-      "Hoarseness", "Ear pain", "Bad breath", "Fatigue", "Swollen lymph nodes"
-    ],
-    "best_hospital": "Apollo Hospital, Chennai",
-    "hospital_cost_breakup": 10000,
-    "medicine_cost": 700,
+  "estimated_total_cost": 4800,
+  "precautions": [
+    "Complete full course of TB treatment",
+    "Avoid close contact with others",
+    "Wear a protective mask",
+    "Ensure good ventilation",
+    "Regular checkups"
+  ],
+  "preventions": [
+    "BCG vaccine",
+    "Early diagnosis and treatment",
+    "Avoid staying in closed spaces",
+    "Do not spit publicly"
+  ],
+  "best_doctor": {
+    "name": "Dr. S K Jindal",
+    "address": "National Institute of TB and Respiratory Diseases, Mehrauli, Delhi",
+    "website": "https://nitrd.nic.in"
+  },
+  "clinic_contact": "+91-11-26061678",
+  "past_disease_match": [
+    "HIV/AIDS",
+    "Chronic bronchitis",
+    "Silicosis"
+  ],
+  "surgery_match": [
+    "Lung surgery",
+    "Chest wall repair"
+  ]
+},
+ {
+  "name": "Anemia",
+  "category": "Blood Disorder",
+  "symptoms": [
+    "Fatigue",
+    "Weakness",
+    "Pale or yellowish skin",
+    "Shortness of breath",
+    "Dizziness",
+    "Cold hands and feet",
+    "Chest pain",
+    "Irregular heartbeats"
+  ],
+  "best_hospital": "All India Institute of Medical Sciences (AIIMS), Delhi",
+  "hospital_cost_breakup": {
     "doctor_fees": 600,
-    "estimated_total_cost": 11300,
-    "precautions": [
-      "Avoid cold food/drinks",
-      "Gargle with salt water",
-      "Complete antibiotic course",
-      "Rest voice",
-      "Avoid allergens"
-    ],
-    "preventions": [
-      "Good hygiene",
-      "Handwashing",
-      "Avoid infected persons",
-      "Healthy diet",
-      "Avoid smoking"
-    ],
-    "best_doctor": {
-      "name": "Dr. R. Srinivasan",
-      "address": "Apollo Hospital",
-      "website": "www.apollohospitals.com"
-    },
-    "clinic_contact": "+91-44-28293333",
-    "past_disease_match": ["Sinus infection", "Cold", "Pharyngitis"],
-    "surgery_match": ["Tonsillectomy", "Adenoidectomy" ]
+    "medicine_cost": 1200,
+    "bed_charges": 1500,
+    "meals": 1000
   },
+  "estimated_total_cost": 4300,
+  "precautions": [
+    "Eat iron-rich foods",
+    "Take prescribed supplements",
+    "Avoid excessive tea/coffee",
+    "Regular health checkups"
+  ],
+  "preventions": [
+    "Balanced diet with iron and folate",
+    "Vitamin B12 intake",
+    "Prevent excessive blood loss",
+    "Treat underlying infections early"
+  ],
+  "best_doctor": {
+    "name": "Dr. Neelam Varma",
+    "address": "Department of Hematology, AIIMS, New Delhi",
+    "website": "https://www.aiims.edu"
+  },
+  "clinic_contact": "+91-11-26588500",
+  "past_disease_match": [
+    "Chronic kidney disease",
+    "Gastric ulcers",
+    "Malaria"
+  ],
+  "surgery_match": [
+    "Bone marrow transplant",
+    "Splenectomy"
+  ]
+},
   {
-    "name": "Measles",
-    "category": "Infectious",
-    "symptoms": [
-      "Fever", "Cough", "Runny nose", "Inflamed eyes", "Rash",
-      "White spots in mouth", "Body ache", "Fatigue", "Sore throat", "Dry cough"
-    ],
-    "past_disease_match": [
-      "Flu",
-      "Rubella",
-      "Chickenpox",
-      "Scarlet fever",
-      "Mumps"
-    ],
-    "surgery_match": [
-      "Hospitalization for severe complications",
-      "Airway management",
-      "Dehydration IV support",
-      "Respiratory therapy"
-    ],
-    "best_hospital": "CMC, Vellore",
-    "hospital_cost_breakup": {
-      "doctor_fees": 400,
-      "medicine_cost": 800,
-      "hospital_cost_breakup": 6500,
-      "estimated_total_cost": 7700
-    },
-    "precautions": [
-      "Avoid contact",
-      "Use humidifier",
-      "Wear mask",
-      "Rest",
-      "Drink fluids"
-    ],
-    "preventions": [
-      "MMR vaccine",
-      "Avoid crowd",
-      "Sanitize",
-      "Wash hands",
-      "Early diagnosis"
-    ],
-    "best_doctor": {
-      "name": "Dr. Anitha Williams",
-      "address": "Christian Medical College, Vellore",
-      "website": "https://www.cmch-vellore.edu"
-    },
-    "clinic_contact": "+91-416-2281000"
+  "name": "Gastroenteritis",
+  "category": "Infectious / Digestive",
+  "symptoms": [
+    "Watery diarrhea",
+    "Abdominal cramps",
+    "Nausea and vomiting",
+    "Fever",
+    "Headache",
+    "Muscle aches",
+    "Dehydration"
+  ],
+  "best_hospital": "Sir Ganga Ram Hospital, Delhi",
+  "hospital_cost_breakup": {
+    "doctor_fees": 500,
+    "medicine_cost": 800,
+    "bed_charges": 1200,
+    "meals": 700
   },
-  {
-    "name": "Hepatitis B",
-    "category": "Infectious",
-    "symptoms": [
-      "Fatigue", "Jaundice", "Dark urine", "Abdominal pain", "Loss of appetite",
-      "Nausea", "Vomiting", "Joint pain", "Fever", "Bloating"
-    ],
-    "best_hospital": "ILBS, Delhi",
-    "hospital_cost_breakup": {
-      "doctor_fees": 800,
-      "medicine_cost": 2500,
-      "hospital_cost_breakup": 12000,
-      "estimated_total_cost": 15300
-    },
-    "precautions": [
-      "Avoid alcohol",
-      "Don’t share needles",
-      "Practice safe sex",
-      "Rest",
-      "Eat healthy"
-    ],
-    "preventions": [
-      "Vaccination",
-      "Avoid blood contact",
-      "Screen blood donors",
-      "Hygiene",
-      "Use disposable syringes"
-    ],
-    "best_doctor": {
-      "name": "Dr. Shiv Kumar Sarin",
-      "address": "Institute of Liver and Biliary Sciences (ILBS), New Delhi",
-      "website": "https://www.ilbs.in"
-    },
-    "clinic_contact": "+91-11-46300000",
-    "past_disease_match": [
-      "Liver infection",
-      "Jaundice",
-      "Fatty liver",
-      "Alcoholic hepatitis",
-      "Autoimmune hepatitis"
-    ],
-    "surgery_match": [
-      "Liver biopsy",
-      "Liver transplantation",
-      "Paracentesis",
-      "Gallbladder removal",
-      "Endoscopic treatment"
-    ]
+  "estimated_total_cost": 3200,
+  "precautions": [
+    "Drink clean water",
+    "Maintain good hygiene",
+    "Eat freshly cooked food",
+    "Rest adequately"
+  ],
+  "preventions": [
+    "Wash hands regularly",
+    "Avoid street food",
+    "Vaccination (rotavirus for children)",
+    "Proper sanitation"
+  ],
+  "best_doctor": {
+    "name": "Dr. Rakesh Tandon",
+    "address": "Sir Ganga Ram Hospital, Rajinder Nagar, New Delhi",
+    "website": "https://www.sgrh.com"
   },
-  {
-    "name": "Hepatitis C",
-    "category": "Infectious",
-    "symptoms": [
-      "Fatigue", "Jaundice", "Dark urine", "Bleeding", "Easy bruising",
-      "Poor appetite", "Joint pain", "Confusion", "Weight loss", "Swelling"
-    ],
-    "best_hospital": "Apollo Hospitals, Hyderabad",
-    "hospital_cost_breakup": {
-      "doctor_fees": 900,
-      "medicine_cost": 3000,
-      "hospital_cost_breakup": 14000,
-      "estimated_total_cost": 17900
-    },
-    "precautions": [
-      "Avoid alcohol",
-      "Follow medication",
-      "Rest",
-      "Avoid fatty food",
-      "Monitor liver"
-    ],
-    "preventions": [
-      "Safe sex",
-      "No needle sharing",
-      "Screen donors",
-      "Hygiene",
-      "Use gloves"
-    ],
-    "best_doctor": {
-      "name": "Dr. D. Subramanyam",
-      "address": "Apollo Hospitals, India",
-      "website": "https://www.apollohospitals.com"
-    },
-    "clinic_contact": "+91-40-23607777",
-    "past_disease_match": [
-      "Hepatitis B",
-      "Liver cirrhosis",
-      "Blood disorder",
-      "Hemochromatosis",
-      "Autoimmune hepatitis"
-    ],
-    "surgery_match": [
-      "Liver transplant",
-      "Biopsy",
-      "Endoscopy",
-      "Fluid drainage",
-      "Biliary surgery" 
-    ]
+  "clinic_contact": "+91-11-25750000",
+  "past_disease_match": [
+    "Food poisoning",
+    "Cholera",
+    "Typhoid fever"
+  ],
+  "surgery_match": [
+    "Severe dehydration IV therapy",
+    "Emergency bowel surgery (rare cases)"
+  ]
+},
+ {
+  "name": "Tonsillitis",
+  "category": "Infectious / ENT",
+  "symptoms": [
+    "Sore throat",
+    "Difficulty swallowing",
+    "Swollen tonsils",
+    "Fever",
+    "Bad breath",
+    "Swollen lymph nodes"
+  ],
+  "best_hospital": "AIIMS (All India Institute of Medical Sciences), Delhi",
+  "hospital_cost_breakup": {
+    "doctor_fees": 600,
+    "medicine_cost": 1000,
+    "bed_charges": 1500,
+    "meals": 800
   },
+  "estimated_total_cost": 3900,
+  "precautions": [
+    "Avoid cold drinks",
+    "Gargle with warm salt water",
+    "Rest and hydrate",
+    "Avoid close contact with infected people"
+  ],
+  "preventions": [
+    "Maintain oral hygiene",
+    "Wash hands frequently",
+    "Boost immunity with a healthy diet",
+    "Avoid sharing utensils"
+  ],
+  "best_doctor": {
+    "name": "Dr. Arvind K. Singh",
+    "address": "AIIMS, Ansari Nagar, New Delhi",
+    "website": "https://www.aiims.edu"
+  },
+  "clinic_contact": "+91-11-26588500",
+  "past_disease_match": [
+    "Strep throat",
+    "Pharyngitis",
+    "Sinusitis"
+  ],
+  "surgery_match": [
+    "Tonsillectomy (surgical removal of tonsils)"
+  ]
+},
+ {
+  "name": "Measles",
+  "category": "Infectious / Viral",
+  "symptoms": [
+    "High fever",
+    "Cough",
+    "Runny nose",
+    "Red watery eyes",
+    "Koplik spots inside mouth",
+    "Red rash spreading across body"
+  ],
+  "best_hospital": "Safdarjung Hospital, Delhi",
+  "hospital_cost_breakup": {
+    "doctor_fees": 500,
+    "medicine_cost": 1200,
+    "bed_charges": 1800,
+    "meals": 1000
+  },
+  "estimated_total_cost": 4500,
+  "precautions": [
+    "Isolate patient",
+    "Wear mask",
+    "Avoid crowded areas",
+    "Stay hydrated and rest"
+  ],
+  "preventions": [
+    "MMR vaccine (Measles, Mumps, Rubella)",
+    "Early immunization",
+    "Maintain hygiene",
+    "Avoid exposure to infected patients"
+  ],
+  "best_doctor": {
+    "name": "Dr. Randeep Guleria",
+    "address": "AIIMS, Ansari Nagar, New Delhi",
+    "website": "https://www.aiims.edu"
+  },
+  "clinic_contact": "+91-11-26165060",
+  "past_disease_match": [
+    "Chickenpox",
+    "Rubella",
+    "Scarlet fever"
+  ],
+  "surgery_match": [
+    "Not applicable (Measles does not require surgery)"
+  ]
+},
+ {
+  "name": "Hepatitis B",
+  "category": "Infectious / Viral (Liver Disease)",
+  "symptoms": [
+    "Yellowing of skin and eyes (Jaundice)",
+    "Dark urine",
+    "Fatigue",
+    "Abdominal pain",
+    "Loss of appetite",
+    "Nausea and vomiting"
+  ],
+  "best_hospital": "Institute of Liver and Biliary Sciences (ILBS), Delhi",
+  "hospital_cost_breakup": {
+    "doctor_fees": 800,
+    "medicine_cost": 2500,
+    "bed_charges": 3000,
+    "meals": 1200
+  },
+  "estimated_total_cost": 7500,
+  "precautions": [
+    "Avoid alcohol",
+    "Do not share needles or razors",
+    "Safe sexual practices",
+    "Regular liver function tests"
+  ],
+  "preventions": [
+    "Hepatitis B vaccination",
+    "Safe blood transfusion",
+    "Screening during pregnancy",
+    "Maintain personal hygiene"
+  ],
+  "best_doctor": {
+    "name": "Dr. Shiv Kumar Sarin",
+    "address": "ILBS, D-1, Vasant Kunj, New Delhi",
+    "website": "https://www.ilbs.in"
+  },
+  "clinic_contact": "+91-11-46300000",
+  "past_disease_match": [
+    "Hepatitis A",
+    "Hepatitis C",
+    "Cirrhosis",
+    "Liver cancer"
+  ],
+  "surgery_match": [
+    "Liver transplant (in severe cases)"
+  ]
+},
+ {
+  "name": "Hepatitis C",
+  "category": "Infectious / Viral (Liver Disease)",
+  "symptoms": [
+    "Fatigue",
+    "Yellowing of skin and eyes (Jaundice)",
+    "Abdominal pain",
+    "Loss of appetite",
+    "Dark urine",
+    "Joint pain"
+  ],
+  "best_hospital": "Institute of Liver and Biliary Sciences (ILBS), Delhi",
+  "hospital_cost_breakup": {
+    "doctor_fees": 900,
+    "medicine_cost": 4000,
+    "bed_charges": 3200,
+    "meals": 1500
+  },
+  "estimated_total_cost": 9600,
+  "precautions": [
+    "Avoid alcohol",
+    "Regular liver checkups",
+    "Do not share needles or syringes",
+    "Safe sex practices"
+  ],
+  "preventions": [
+    "Screening of blood products",
+    "Avoid sharing razors or toothbrushes",
+    "Use sterilized medical equipment",
+    "Awareness about unsafe tattooing/piercing"
+  ],
+  "best_doctor": {
+    "name": "Dr. Arvinder Singh Soin",
+    "address": "Medanta - The Medicity, Gurgaon, Haryana",
+    "website": "https://www.medanta.org"
+  },
+  "clinic_contact": "+91-124-4141414",
+  "past_disease_match": [
+    "Hepatitis B",
+    "Cirrhosis",
+    "Liver cancer",
+    "HIV/AIDS"
+  ],
+  "surgery_match": [
+    "Liver transplant (in end-stage cases)"
+  ]
+},
   {
     "name": "Chikungunya",
     "category": "Infectious",
