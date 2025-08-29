@@ -64,7 +64,7 @@
   ],
   "best_hospital": "Apollo Hospitals, Chennai",
   "hospital_cost_breakup": {
-    "doctor_fee": 1500,
+    "doctor_fees": 1500,
     "medicine_cost": 2500,
     "bed_charges": 2500,
     "meals": 1000,
