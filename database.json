@@ -673,7 +673,7 @@
       "Respiratory therapy"
     ],
     "best_hospital": "CMC, Vellore",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 400,
       "medicine_cost": 800,
       "hospital_cost_breakup": 6500,
@@ -708,7 +708,7 @@
       "Nausea", "Vomiting", "Joint pain", "Fever", "Bloating"
     ],
     "best_hospital": "ILBS, Delhi",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 800,
       "medicine_cost": 2500,
       "hospital_cost_breakup": 12000,
@@ -757,7 +757,7 @@
       "Poor appetite", "Joint pain", "Confusion", "Weight loss", "Swelling"
     ],
     "best_hospital": "Apollo Hospitals, Hyderabad",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 900,
       "medicine_cost": 3000,
       "hospital_cost_breakup": 14000,
@@ -806,7 +806,7 @@
       "Fatigue", "Nausea", "Red eyes", "Back pain", "Vomiting"
     ],
     "best_hospital": "Max Super Speciality Hospital, Saket",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 600,
       "medicine_cost": 900,
       "hospital_cost_breakup": 7000,
@@ -855,7 +855,7 @@
       "Body pain", "Diarrhea", "Headache", "Breathlessness", "Chest pain"
     ],
     "best_hospital": "Lok Nayak Hospital, Delhi",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 1000,
       "medicine_cost": 2000,
       "hospital_cost_breakup": 15000,
@@ -904,7 +904,7 @@
       "Diarrhea", "Mouth ulcers", "Skin rashes", "Frequent infections"
     ],
     "best_hospital": "NACO + AIIMS Collaboration Centre",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 1000,
       "medicine_cost": 5000,
       "hospital_cost_breakup": 8000,
@@ -953,7 +953,7 @@
       "Fever", "Fatigue", "Bad breath", "Tooth pain", "Ear pressure"
     ],
     "best_hospital": "Kokilaben Hospital, Mumbai",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 700,
       "medicine_cost": 800,
       "hospital_cost_breakup": 12000,
@@ -1002,7 +1002,7 @@
       "Dizziness", "Headache", "Numbness", "Loss of balance", "Trouble walking"
     ],
     "best_hospital": "Apollo Hospitals, Hyderabad",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 1200,
       "medicine_cost": 2500,
       "hospital_cost_breakup": 125000,
@@ -1051,7 +1051,7 @@
       "Limited motion", "Warmth", "Joint deformity", "Muscle weakness", "Tenderness"
     ],
     "best_hospital": "CMC Vellore",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 600,
       "medicine_cost": 1000,
       "hospital_cost_breakup": 10000,
@@ -1100,7 +1100,7 @@
       "Headache", "Fluid-filled blisters", "Scabs", "Sore throat", "Nausea"
     ],
     "best_hospital": "Fortis Hospital, Noida",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 700,
       "medicine_cost": 1200,
       "hospital_cost_breakup": 6000,
@@ -1149,7 +1149,7 @@
       "Appetite loss", "Hiccups", "Belching", "Burning stomach", "Black stools"
     ],
     "best_hospital": "Fortis Escorts, Delhi",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 600,
       "medicine_cost": 800,
       "hospital_cost_breakup": 9000,
@@ -1196,7 +1196,7 @@
       "Loss of consciousness", "Psychic symptoms", "Anxiety", "Aura", "Headache", "Muscle stiffness"
     ],
     "best_hospital": "NIMHANS, Bengaluru",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 500,
       "medicine_cost": 2000,
       "hospital_cost_breakup": 15000,
@@ -1246,7 +1246,7 @@
       "Lack of energy", "Guilt", "Suicidal thoughts", "Poor focus", "Isolation", "Anger"
     ],
     "best_hospital": "NIMHANS, Bengaluru",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 700,
       "medicine_cost": 1000,
       "hospital_cost_breakup": 18000,
@@ -1296,7 +1296,7 @@
       "Yellowing vision", "Vision loss"
     ],
     "best_hospital": "Shankar Netralaya, Chennai",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 500,
       "medicine_cost": 2000,
       "hospital_cost_breakup": 22000,
@@ -1341,7 +1341,7 @@
       "Burning", "Sensitivity to light", "Blurred vision", "Gritty feeling", "Crusty eyelids"
     ],
     "best_hospital": "LV Prasad Eye Institute, Hyderabad",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 400,
       "medicine_cost": 600,
       "hospital_cost_breakup": 0,
@@ -1385,7 +1385,7 @@
       "Dehydration", "Weakness", "Weight loss", "Mucus in stool", "Urgency"
     ],
     "best_hospital": "AIIMS, Delhi",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 600,
       "medicine_cost": 1200,
       "hospital_cost_breakup": 9000,
@@ -1429,7 +1429,7 @@
       "Confusion", "Easy bruising", "Itchy skin", "Spider veins", "Nausea", "Abdominal pain"
     ],
     "best_hospital": "Apollo Hospitals, Chennai",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 1800,
       "medicine_cost": 3500,
       "hospital_cost_breakup": 65000,
@@ -1606,7 +1606,7 @@
       "Bloody sputum", "Wheezing", "Bone pain", "Headache", "Fatigue"
     ],
     "best_hospital": "Tata Memorial Hospital, Mumbai",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 2200,
       "medicine_cost": 7000,
       "hospital_admission": 95000,
@@ -1644,7 +1644,7 @@
       "Cloudy urine", "Frequent urination", "Vomiting", "Chills", "Urine smell"
     ],
     "best_hospital": "CMC Vellore",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 1000,
       "medicine_cost": 1800,
       "hospital_admission": 32000,
@@ -1683,7 +1683,7 @@
       "Strong smell", "Blood in urine", "Fever", "Chills", "Fatigue"
     ],
     "best_hospital": "Kokilaben Dhirubhai Ambani Hospital, Mumbai",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 1000,
       "medicine_cost": 900,
       "hospital_admission": 10000,
@@ -1729,7 +1729,7 @@
       "Cracked skin", "Thick nails", "Swollen joints", "Fatigue", "Inflammation"
     ],
     "best_hospital": "PGIMER, Chandigarh",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 1000,
       "medicine_cost": 2200,
       "hospital_admission": 25000,
@@ -1775,7 +1775,7 @@
       "Chest pain", "Poor appetite", "Dry skin", "High blood pressure", "Frequent urination at night"
     ],
     "best_hospital": "AIIMS, New Delhi",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 1500,
       "medicine_cost": 2000,
       "hospital_admission": 25000,
@@ -1821,7 +1821,7 @@
       "Vomiting", "Tunnel vision", "Red eyes", "Eye pressure"
     ],
     "best_hospital": "Sankara Nethralaya, Chennai",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 800,
       "medicine_cost": 1000,
       "hospital_admission": 10000,
@@ -1866,7 +1866,7 @@
       "Oily skin", "Scarring", "Inflammation", "Facial redness"
     ],
     "best_hospital": "Kaya Skin Clinic, Mumbai",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 700,
       "medicine_cost": 500,
       "hospital_admission": 0,
@@ -1917,7 +1917,7 @@
       "Distorted images"
     ],
     "best_hospital": "LV Prasad Eye Institute, Hyderabad",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 900,
       "medicine_cost": 500,
       "hospital_admission": 7000,
@@ -1970,7 +1970,7 @@
       "Pressure around eyes"
     ],
     "best_hospital": "Manipal Hospital, Bengaluru",
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 1000,
       "medicine_cost": 800,
       "hospital_admission": 15000,
@@ -2025,7 +2025,7 @@
     "Insomnia"
   ],
   "best_hospital": "NIMHANS, Bangalore",
-  "hospital_expenses": {
+  "hospital_cost_breakup": {
     "doctor_fees": 1200,
     "medicine_cost": 3000,
     "hospital_admission": 35000,
@@ -2084,7 +2084,7 @@
     "address": "Max Super Speciality Hospital, Saket, New Delhi – 110017, India",
     "website": "https://www.maxhealthcare.in"
   },
-  "hospital_expenses": {
+  "hospital_cost_breakup": {
     "doctor_fees": 1200,
     "medicine_cost": 900,
     "hospital_cost_breakup": 12000,
@@ -2139,7 +2139,7 @@
       "address": "Sir Ganga Ram Hospital, Old Rajinder Nagar, New Delhi – 110060, India",
       "website": "https://www.sgrh.com"
     },
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 1000,
       "medicine_cost": 1200,
       "hospital_cost_breakup": 18000,
@@ -2191,7 +2191,7 @@
       "address": "Medanta - The Medicity, Sector 38, Gurugram, Haryana 122001, India",
       "website": "https://www.medanta.org"
     },
-    "hospital_expenses": {
+    "hospital_cost_breakup": {
       "doctor_fees": 1000,
       "medicine_cost": 500,
       "hospital_cost_breakup": 5000,
@@ -2238,7 +2238,7 @@
     "address": "National Institute of Mental Health and Neurosciences (NIMHANS), Hosur Road, Bengaluru, Karnataka 560029, India",
     "website": "https://www.nimhans.ac.in"
   },
-  "hospital_expenses": {
+  "hospital_cost_breakup": {
     "doctor_fees": 1200,
     "medicine_cost": 3000,
     "hospital_cost_breakup": 35000,
@@ -2279,7 +2279,7 @@
     "address": "Cloudnine Hospital, 1533, 9th Main, 3rd Block, Jayanagar, Bengaluru, Karnataka 560011, India",
     "website": "https://www.cloudninecare.com"
   },
-  "hospital_expenses": {
+  "hospital_cost_breakup": {
     "doctor_fees": 800,
     "medicine_cost": 1500,
     "hospital_cost_breakup": 25000,
@@ -2327,7 +2327,7 @@
     "address": "Department of Neurology, All India Institute of Medical Sciences (AIIMS), Ansari Nagar, New Delhi - 110029, India",
     "website": "https://www.aiims.edu"
   },
-  "hospital_expenses": {
+  "hospital_cost_breakup": {
     "doctor_fees": 1000,
     "medicine_cost": 2500,
     "hospital_cost_breakup": 30000,
@@ -2384,7 +2384,7 @@
     "address": "Department of Dermatology, Safdarjung Hospital, Ansari Nagar, New Delhi - 110029, India",
     "website": "https://www.safdarjunghospital.gov.in"
   },
-  "hospital_expenses": {
+  "hospital_cost_breakup": {
     "doctor_fees": 300,
     "medicine_cost": 500,
     "hospital_cost_breakup": 2000,
@@ -2439,7 +2439,7 @@
     "address": "Apollo Gleneagles Hospitals, 58, Canal Circular Road, Kadapara, Kolkata - 700054, West Bengal, India",
     "website": "https://www.apollohospitals.com"
   },
-  "hospital_expenses": {
+  "hospital_cost_breakup": {
     "doctor_fees": 600,
     "medicine_cost": 1200,
     "hospital_cost_breakup": 15000,
@@ -2494,7 +2494,7 @@
     "address": "Fortis Memorial Research Institute, Sector 44, Gurugram, Haryana, India",
     "website": "https://www.fortishealthcare.com"
   },
-  "hospital_expenses": {
+  "hospital_cost_breakup": {
     "doctor_fees": 1000,
     "medicine_cost": 3500,
     "hospital_cost_breakup": 20000,
@@ -2545,7 +2545,7 @@
     "address": "National Institute of Mental Health and Neurosciences (NIMHANS), Hosur Road, Bengaluru, Karnataka, India",
     "website": "https://www.nimhans.ac.in"
   },
-  "hospital_expenses": {
+  "hospital_cost_breakup": {
     "doctor_fees": 500,
     "medicine_cost": 300,
     "hospital_cost_breakup": 1000,
@@ -2596,7 +2596,7 @@
     "address": "King Edward Memorial Hospital (KEM), Mumbai, Maharashtra, India",
     "website": "https://www.kem.edu"
   },
-  "hospital_expenses": {
+  "hospital_cost_breakup": {
     "doctor_fees": 600,
     "medicine_cost": 1000,
     "hospital_cost_breakup": 6000,
@@ -2643,7 +2643,7 @@
     "address": "National Institute of Mental Health and Neurosciences (NIMHANS), Bengaluru, Karnataka, India",
     "website": "https://www.nimhans.ac.in"
   },
-  "hospital_expenses": {
+  "hospital_cost_breakup": {
     "doctor_fees": 1000,
     "medicine_cost": 1500,
     "hospital_cost_breakup": 10000,
@@ -2696,11 +2696,12 @@
      "address": "Dr. Mohan's Diabetes Specialities Centre, Chennai, Tamil Nadu, India",
      "website": "https://www.drmohans.com"
     },
-    "hospital_expenses": {
-      "doctor_fees": 900,
-      "medicine_cost": 2000,
-      "hospital_cost_breakup": 21500,
-      "total_estimated_cost": 24400
+    "hospital_cost_breakup": {
+      "doctor_fees": 1700,
+    "medicine_cost": 2700,
+    "bed_charges": 2600,
+    "meals": 1000,
+    "admission_cost": 1800
     },
     "precautions": [
       "Monitor blood sugar regularly",
