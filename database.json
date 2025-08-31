@@ -1861,654 +1861,484 @@
     "Biologic therapy (advanced cases)"
   ]
 },
-  {
-    "name": "Chronic Kidney Disease (CKD)",
-    "category": "Chronic",
-    "symptoms": [
-      "Fatigue", "Swollen ankles", "Shortness of breath", "Nausea", "Confusion",
-      "Chest pain", "Poor appetite", "Dry skin", "High blood pressure", "Frequent urination at night"
-    ],
-    "best_hospital": "AIIMS, New Delhi",
-    "hospital_cost_breakup": {
-      "doctor_fees": 1500,
-      "medicine_cost": 2000,
-      "hospital_admission": 25000,
-      "clinic_consultation": 1500,
-      "total_estimated_cost": 28500
-    },
-    "precautions": [
-      "Limit sodium and potassium intake",
-      "Monitor blood pressure",
-      "Stay hydrated",
-      "Avoid NSAIDs",
-      "Regular check-ups"
-    ],
-    "prevention": [
-      "Control diabetes and hypertension",
-      "Maintain healthy weight",
-      "Avoid smoking",
-      "Exercise regularly",
-      "Healthy kidney diet"
-    ],
-    "best_doctor": {
-      "name": "Dr. Sanjeev Gulati",
-      "address": "All India Institute of Medical Sciences (AIIMS), New Delhi",
-      "website": "https://www.aiims.edu"
-    },
-    "clinic_contact": "011-26588500",
-    "past_disease_match": [
-      "Diabetes",
-      "Hypertension",
-      "Polycystic kidney disease",
-      "Glomerulonephritis"
-    ],
-    "surgery_match": [
-      "Kidney transplant",
-      "Dialysis access surgery"
-    ]
+ {
+  "name": "Chronic Kidney Disease (CKD)",
+  "category": "Nephrological",
+  "symptoms": [
+    "Nausea and vomiting",
+    "Loss of appetite",
+    "Swelling in feet and ankles",
+    "Persistent fatigue and weakness",
+    "High blood pressure (hypertension)",
+    "Changes in urination (frequency or amount)",
+    "Shortness of breath due to fluid buildup"
+  ],
+  "best_hospital": "All India Institute of Medical Sciences (AIIMS), New Delhi",
+  "hospital_cost_breakup": {
+    "doctor_fees": 4000,
+    "medicine_cost": 12000,
+    "bed_charges": 8000,
+    "meals": 3500
   },
-  {
-    "name": "Glaucoma",
-    "category": "Eye Disease",
-    "symptoms": [
-      "Eye pain", "Blurred vision", "Headache", "Halos around lights", "Nausea",
-      "Vomiting", "Tunnel vision", "Red eyes", "Eye pressure"
-    ],
-    "best_hospital": "Sankara Nethralaya, Chennai",
-    "hospital_cost_breakup": {
-      "doctor_fees": 800,
-      "medicine_cost": 1000,
-      "hospital_admission": 10000,
-      "clinic_consultation": 800,
-      "total_estimated_cost": 11800
-    },
-    "precautions": [
-      "Regular eye exams",
-      "Take prescribed eye drops",
-      "Use protective eyewear",
-      "Exercise safely",
-      "Avoid head-down yoga positions"
-    ],
-    "prevention": [
-      "Early screening",
-      "Control diabetes",
-      "Family history awareness",
-      "Maintain healthy weight",
-      "Avoid steroid overuse"
-    ],
-    "best_doctor": {
-      "name": "Dr. L. Vijaya",
-      "address": "Sankara Nethralaya, Chennai",
-      "website": "https://www.sankaranethralaya.org"
-    },
-    "clinic_contact": "044-42271500",
-    "past_disease_match": [
-      "Diabetes",
-      "Hypertension",
-      "Migraines"
-    ],
-    "surgery_match": [
-      "Cataract surgery",
-      "Eye trauma surgery"
-    ]
+  "estimated_total_cost": 27500,
+  "precautions": [
+    "Monitor and control blood pressure regularly",
+    "Limit salt and protein intake as prescribed",
+    "Avoid over-the-counter painkillers (NSAIDs)",
+    "Stay hydrated but within doctor’s advice"
+  ],
+  "preventions": [
+    "Manage diabetes and hypertension effectively",
+    "Maintain healthy diet and weight",
+    "Avoid smoking and alcohol",
+    "Get regular kidney function tests if at risk"
+  ],
+  "best_doctor": {
+    "name": "Dr. Vivekanand Jha",
+    "address": "Department of Nephrology, AIIMS, New Delhi",
+    "website": "https://www.aiims.edu"
   },
-  {
-    "name": "Acne",
-    "category": "Skin",
-    "symptoms": [
-      "Pimples", "Blackheads", "Whiteheads", "Red spots", "Pus-filled lesions",
-      "Oily skin", "Scarring", "Inflammation", "Facial redness"
-    ],
-    "best_hospital": "Kaya Skin Clinic, Mumbai",
-    "hospital_cost_breakup": {
-      "doctor_fees": 700,
-      "medicine_cost": 500,
-      "hospital_admission": 0,
-      "clinic_consultation": 700,
-      "total_estimated_cost": 1200
-    },
-    "precautions": [
-      "Wash face twice daily",
-      "Avoid touching face",
-      "Use non-comedogenic products",
-      "Avoid oily cosmetics",
-      "Don't pop pimples"
-    ],
-    "prevention": [
-      "Balanced diet",
-      "Manage stress",
-      "Proper hygiene",
-      "Avoid dairy and sugar overload",
-      "Regular hydration"
-    ],
-    "best_doctor": {
-      "name": "Dr. Aparna Santhanam",
-      "address": "Kaya Skin Clinic, India",
-      "website": "https://www.kayaclinic.com"
-    },
-    "clinic_contact": "1800-209-5292",
-    "past_disease_match": [
-      "Polycystic Ovary Syndrome (PCOS)",
-      "Hormonal imbalance",
-      "Digestive disorders"
-    ],
-    "surgery_match": [
-      "Facial cosmetic surgery",
-      "Laser skin resurfacing",
-      "Chemical peels"
-    ]
+  "clinic_contact": "+91-11-26588500",
+  "past_disease_match": [
+    "Acute Kidney Injury (AKI)",
+    "Glomerulonephritis",
+    "Polycystic Kidney Disease"
+  ],
+  "surgery_match": [
+    "Dialysis (Hemodialysis or Peritoneal Dialysis)",
+    "Kidney Transplant (advanced cases)"
+  ]
+},
+ {
+  "name": "Glaucoma",
+  "category": "Ophthalmological",
+  "symptoms": [
+    "Severe eye pain",
+    "Blurred or hazy vision",
+    "Halos around lights",
+    "Gradual loss of peripheral (side) vision",
+    "Sudden vision loss (in acute cases)",
+    "Redness of the eye",
+    "Headache and nausea"
+  ],
+  "best_hospital": "Dr. Rajendra Prasad Centre for Ophthalmic Sciences, AIIMS, New Delhi",
+  "hospital_cost_breakup": {
+    "doctor_fees": 3000,
+    "medicine_cost": 7000,
+    "bed_charges": 5000,
+    "meals": 2500
   },
-  {
-    "name": "Astigmatism",
-    "category": "Eye",
-    "symptoms": [
-      "Blurred vision",
-      "Eye strain",
-      "Headaches",
-      "Difficulty seeing at night",
-      "Squinting",
-      "Double vision",
-      "Distorted images"
-    ],
-    "best_hospital": "LV Prasad Eye Institute, Hyderabad",
-    "hospital_cost_breakup": {
-      "doctor_fees": 900,
-      "medicine_cost": 500,
-      "hospital_admission": 7000,
-      "clinic_consultation": 900,
-      "total_estimated_cost": 8400
-    },
-    "precautions": [
-      "Use correct glasses",
-      "Regular eye exams",
-      "Avoid screen overuse",
-      "Blink frequently",
-      "Use eye drops if prescribed"
-    ],
-    "prevention": [
-      "Protective eyewear",
-      "Early screening",
-      "Healthy diet",
-      "Stay hydrated",
-      "Maintain eye hygiene"
-    ],
-    "best_doctor": {
-      "name": "Dr. Gullapalli N Rao",
-      "address": "LV Prasad Eye Institute, Hyderabad, India",
-      "website": "https://www.lvpei.org"
-    },
-    "clinic_contact": "040-30612100",
-    "past_disease_match": [
-      "Myopia",
-      "Hyperopia",
-      "Eye injuries",
-      "Keratoconus"
-    ],
-    "surgery_match": [
-      "Laser eye surgery (LASIK)",
-      "Toric lens implantation",
-      "Photorefractive keratectomy (PRK)"
-    ]
+  "estimated_total_cost": 17500,
+  "precautions": [
+    "Take prescribed eye drops regularly without skipping doses",
+    "Attend regular eye check-ups",
+    "Avoid straining your eyes (long screen use without breaks)",
+    "Protect eyes from injury"
+  ],
+  "preventions": [
+    "Routine eye check-ups, especially after age 40",
+    "Maintain healthy blood pressure and sugar levels",
+    "Use protective eyewear in risky environments",
+    "Avoid smoking and excess caffeine"
+  ],
+  "best_doctor": {
+    "name": "Dr. Sushma Tejwani",
+    "address": "RP Centre for Ophthalmic Sciences, AIIMS, New Delhi",
+    "website": "https://www.aiims.edu"
   },
-  {
-    "name": "Sinusitis",
-    "category": "ENT",
-    "symptoms": [
-      "Facial pain",
-      "Nasal congestion",
-      "Headache",
-      "Postnasal drip",
-      "Cough",
-      "Fatigue",
-      "Bad breath",
-      "Pressure around eyes"
-    ],
-    "best_hospital": "Manipal Hospital, Bengaluru",
-    "hospital_cost_breakup": {
-      "doctor_fees": 1000,
-      "medicine_cost": 800,
-      "hospital_admission": 15000,
-      "clinic_consultation": 1000,
-      "total_estimated_cost": 16800
-    },
-    "precautions": [
-      "Stay hydrated",
-      "Use humidifier",
-      "Avoid allergens",
-      "Proper nasal hygiene",
-      "Follow antibiotics properly"
-    ],
-    "prevention": [
-      "Boost immunity",
-      "Avoid smoke",
-      "Wash hands regularly",
-      "Treat colds early",
-      "Allergy management"
-    ],
-    "best_doctor": {
-      "name": "Dr. Shankar B. Medikeri",
-      "address": "Manipal Hospitals, Bengaluru, India",
-      "website": "https://www.manipalhospitals.com"
-    },
-    "clinic_contact": "080-22221111",
-    "past_disease_match": [
-      "Allergic rhinitis",
-      "Deviated nasal septum",
-      "Chronic cold",
-      "Asthma"
-    ],
-    "surgery_match": [
-      "Functional endoscopic sinus surgery (FESS)",
-      "Balloon sinuplasty",
-      "Septoplasty"
-    ]
+  "clinic_contact": "+91-11-26588500",
+  "past_disease_match": [
+    "Cataract",
+    "Ocular hypertension",
+    "Diabetic retinopathy"
+  ],
+  "surgery_match": [
+    "Laser trabeculoplasty",
+    "Trabeculectomy",
+    "Glaucoma drainage implants"
+  ]
+},
+ {
+  "name": "Acne",
+  "category": "Dermatological",
+  "symptoms": [
+    "Whiteheads and blackheads",
+    "Papules (small red, tender bumps)",
+    "Pustules (pimples with pus)",
+    "Nodules (large, painful lumps beneath the skin)",
+    "Oily skin",
+    "Scarring after pimples heal"
+  ],
+  "best_hospital": "All India Institute of Medical Sciences (AIIMS), New Delhi",
+  "hospital_cost_breakup": {
+    "doctor_fees": 2000,
+    "medicine_cost": 4000,
+    "bed_charges": 0,
+    "meals": 0
   },
+  "estimated_total_cost": 6000,
+  "precautions": [
+    "Avoid touching or popping pimples",
+    "Use mild, non-comedogenic cleansers",
+    "Keep skin clean and moisturized",
+    "Avoid heavy makeup and oily skincare products"
+  ],
+  "preventions": [
+    "Maintain a healthy diet (low sugar and dairy)",
+    "Reduce stress through regular exercise and sleep",
+    "Cleanse face twice daily",
+    "Avoid excessive sun exposure and use sunscreen"
+  ],
+  "best_doctor": {
+    "name": "Dr. R.K. Khanna",
+    "address": "Department of Dermatology, AIIMS, New Delhi",
+    "website": "https://www.aiims.edu"
+  },
+  "clinic_contact": "+91-11-26588500",
+  "past_disease_match": [
+    "Rosacea",
+    "Folliculitis",
+    "Seborrheic dermatitis"
+  ],
+  "surgery_match": [
+    "Chemical peels",
+    "Laser therapy",
+    "Microdermabrasion"
+  ]
+},
+ {
+  "name": "Astigmatism",
+  "category": "Ophthalmological",
+  "symptoms": [
+    "Blurred or distorted vision at all distances",
+    "Eyestrain or discomfort",
+    "Headaches after visual tasks",
+    "Difficulty with night vision",
+    "Squinting to see clearly"
+  ],
+  "best_hospital": "Dr. Rajendra Prasad Centre for Ophthalmic Sciences, AIIMS, New Delhi",
+  "hospital_cost_breakup": {
+    "doctor_fees": 2500,
+    "medicine_cost": 3000,
+    "bed_charges": 4000,
+    "meals": 2000
+  },
+  "estimated_total_cost": 11500,
+  "precautions": [
+    "Wear prescribed glasses or contact lenses regularly",
+    "Avoid excessive screen time without breaks",
+    "Ensure proper lighting while reading or working",
+    "Attend regular eye check-ups"
+  ],
+  "preventions": [
+    "Routine eye examinations to detect early changes",
+    "Protect eyes from injuries with safety glasses",
+    "Maintain healthy lifestyle for good eye health",
+    "Practice 20-20-20 rule (every 20 minutes, look 20 feet away for 20 seconds)"
+  ],
+  "best_doctor": {
+    "name": "Dr. Rajvardhan Azad",
+    "address": "RP Centre for Ophthalmic Sciences, AIIMS, New Delhi",
+    "website": "https://www.aiims.edu"
+  },
+  "clinic_contact": "+91-11-26588500",
+  "past_disease_match": [
+    "Myopia (Nearsightedness)",
+    "Hyperopia (Farsightedness)",
+    "Keratoconus"
+  ],
+  "surgery_match": [
+    "LASIK surgery",
+    "PRK (Photorefractive Keratectomy)",
+    "Toric intraocular lens implantation"
+  ]
+},
   {
   "name": "Parkinson's Disease",
   "category": "Neurological",
   "symptoms": [
-    "Tremors",
-    "Slow movement",
-    "Stiffness",
-    "Imbalance",
-    "Difficulty walking",
-    "Reduced facial expression",
-    "Slurred speech",
-    "Fatigue",
-    "Confusion",
-    "Insomnia"
+    "Tremors (shaking, usually in hands or fingers)",
+    "Slowed movement (bradykinesia)",
+    "Muscle stiffness or rigidity",
+    "Impaired posture and balance",
+    "Changes in speech (soft or slurred)",
+    "Difficulty writing (micrographia)",
+    "Sleep disturbances"
   ],
-  "best_hospital": "NIMHANS, Bangalore",
+  "best_hospital": "National Institute of Mental Health and Neurosciences (NIMHANS), Bengaluru",
   "hospital_cost_breakup": {
-    "doctor_fees": 1200,
-    "medicine_cost": 3000,
-    "hospital_admission": 35000,
-    "clinic_consultation": 1200,
-    "total_estimated_cost": 39200
+    "doctor_fees": 5000,
+    "medicine_cost": 15000,
+    "bed_charges": 8000,
+    "meals": 3000
   },
+  "estimated_total_cost": 31000,
   "precautions": [
-    "Regular physiotherapy",
-    "Avoid sudden movement",
-    "Timely medication",
-    "Avoid stress",
-    "Daily check-ups"
+    "Take prescribed medications on time without skipping doses",
+    "Engage in regular physical therapy and light exercise",
+    "Eat a balanced diet rich in fiber and fluids",
+    "Prevent falls by using support if balance is affected",
+    "Join support groups for mental well-being"
   ],
-  "prevention": [
-    "Exercise",
-    "Healthy diet",
-    "Avoid head injuries",
-    "Avoid pesticide exposure",
-    "Avoid drug abuse"
+  "preventions": [
+    "No guaranteed prevention, but regular exercise may reduce risk",
+    "Maintain healthy lifestyle with antioxidant-rich diet",
+    "Avoid exposure to pesticides and toxins",
+    "Routine neurological check-ups if family history exists"
   ],
   "best_doctor": {
-    "name": "Dr. Pramod Kumar Pal",
-    "address": "Department of Neurology, NIMHANS, Hosur Road, Bengaluru, Karnataka, India",
-    "website": "https://www.nimhans.ac.in"
+    "name": "Dr. Pramod Pal",
+    "address": "Department of Neurology, NIMHANS, Bengaluru",
+    "website": "https://nimhans.ac.in"
   },
-  "clinic_contact": "+91 80 2699 5000",
+  "clinic_contact": "+91-80-26995001",
   "past_disease_match": [
     "Essential Tremor",
     "Multiple System Atrophy",
-    "Stroke",
-    "Alzheimer's Disease",
-    "Lewy Body Dementia"
+    "Progressive Supranuclear Palsy"
   ],
   "surgery_match": [
     "Deep Brain Stimulation (DBS)",
-    "Thalamotomy",
-    "Pallidotomy"
+    "Lesioning surgeries (Pallidotomy, Thalamotomy)"
   ]
 },
 {
   "name": "GERD (Acid Reflux)",
-  "category": "Digestive",
+  "category": "Gastroenterological",
   "symptoms": [
-    "Heartburn",
-    "Regurgitation",
-    "Chest pain",
-    "Difficulty swallowing",
+    "Heartburn (burning sensation in chest, especially after eating)",
+    "Regurgitation of food or sour liquid",
+    "Difficulty swallowing (dysphagia)",
     "Chronic cough",
-    "Hoarseness",
-    "Sore throat"
+    "Hoarseness or sore throat",
+    "Sensation of a lump in the throat",
+    "Worsening symptoms when lying down at night"
   ],
-  "best_hospital": "Max Super Speciality Hospital, Delhi",
-  "clinic_contact": "011-26515050",
-  "best_doctor": {
-    "name": "Dr. Nikhil Agrawal",
-    "address": "Max Super Speciality Hospital, Saket, New Delhi – 110017, India",
-    "website": "https://www.maxhealthcare.in"
-  },
+  "best_hospital": "All India Institute of Medical Sciences (AIIMS), New Delhi",
   "hospital_cost_breakup": {
-    "doctor_fees": 1200,
-    "medicine_cost": 900,
-    "hospital_cost_breakup": 12000,
-    "total_estimated_cost": 14100
+    "doctor_fees": 2500,
+    "medicine_cost": 7000,
+    "bed_charges": 5000,
+    "meals": 2000
   },
+  "estimated_total_cost": 16500,
   "precautions": [
-    "Avoid spicy food",
-    "Elevate head while sleeping",
-    "Eat small meals",
-    "Do not lie down after eating",
-    "Avoid caffeine/alcohol"
+    "Avoid spicy, fatty, and acidic foods",
+    "Eat smaller, frequent meals instead of large meals",
+    "Do not lie down immediately after eating (wait at least 2-3 hours)",
+    "Elevate the head of the bed to reduce nighttime reflux",
+    "Avoid smoking and alcohol"
   ],
-  "prevention": [
-    "Maintain healthy weight",
-    "Avoid smoking",
-    "Reduce stress",
-    "Eat slowly",
-    "Wear loose clothing"
+  "preventions": [
+    "Maintain healthy body weight",
+    "Exercise regularly but avoid heavy workouts right after meals",
+    "Wear loose-fitting clothes around the abdomen",
+    "Manage stress effectively"
   ],
+  "best_doctor": {
+    "name": "Dr. Uday C. Ghoshal",
+    "address": "Department of Gastroenterology, SGPGI, Lucknow",
+    "website": "http://www.sgpgi.ac.in"
+  },
+  "clinic_contact": "+91-522-2668004",
   "past_disease_match": [
-    "Hiatal hernia",
-    "Obesity",
+    "Gastritis",
+    "Hiatal Hernia",
+    "Peptic Ulcer Disease"
+  ],
+  "surgery_match": [
+    "Fundoplication surgery",
+    "LINX device implantation (magnetic sphincter augmentation)"
+  ]
+},
+ {
+  "name": "Bronchitis",
+  "category": "Respiratory",
+  "symptoms": [
+    "Persistent cough producing mucus (sputum)",
+    "Chest discomfort or tightness",
+    "Fatigue",
+    "Shortness of breath",
+    "Slight fever and chills",
+    "Wheezing"
+  ],
+  "best_hospital": "All India Institute of Medical Sciences (AIIMS), New Delhi",
+  "hospital_cost_breakup": {
+    "doctor_fees": 2500,
+    "medicine_cost": 6000,
+    "bed_charges": 4000,
+    "meals": 2000
+  },
+  "estimated_total_cost": 14500,
+  "precautions": [
+    "Avoid smoking and secondhand smoke",
+    "Wear a mask in polluted or dusty environments",
+    "Stay hydrated to keep mucus thin",
+    "Use humidifier or steam inhalation for relief"
+  ],
+  "preventions": [
+    "Get vaccinated against influenza and pneumonia",
+    "Practice good hand hygiene to prevent infections",
+    "Avoid long-term exposure to air pollutants and irritants",
+    "Boost immunity with healthy diet and exercise"
+  ],
+  "best_doctor": {
+    "name": "Dr. Randeep Guleria",
+    "address": "Department of Pulmonology, AIIMS, New Delhi",
+    "website": "https://www.aiims.edu"
+  },
+  "clinic_contact": "+91-11-26588500",
+  "past_disease_match": [
     "Asthma",
-    "Diabetes",
-    "Peptic ulcers",
-    "Gastroparesis",
-    "Scleroderma",
-    "Zollinger-Ellison syndrome"
+    "Pneumonia",
+    "Chronic Obstructive Pulmonary Disease (COPD)"
   ],
   "surgery_match": [
-    "Nissen fundoplication",
-    "Hiatal hernia repair",
-    "Endoscopic fundoplication",
-    "LINX Reflux Management System",
-    "Transoral incisionless fundoplication (TIF)"
-  ]
- },
-  {
-    "name": "Bronchitis",
-    "category": "Respiratory",
-    "symptoms": [
-      "Cough with mucus",
-      "Fatigue",
-      "Shortness of breath",
-      "Mild fever",
-      "Chest discomfort"
-    ],
-    "best_hospital": "Sir Ganga Ram Hospital, Delhi",
-    "clinic_contact": "011-25750000",
-    "best_doctor": {
-      "name": "Dr. Arup Basu",
-      "address": "Sir Ganga Ram Hospital, Old Rajinder Nagar, New Delhi – 110060, India",
-      "website": "https://www.sgrh.com"
-    },
-    "hospital_cost_breakup": {
-      "doctor_fees": 1000,
-      "medicine_cost": 1200,
-      "hospital_cost_breakup": 18000,
-      "total_estimated_cost": 20200
-    },
-    "precautions": [
-      "Avoid pollutants",
-      "Stay hydrated",
-      "Use a humidifier",
-      "Rest well",
-      "Follow inhaler use"
-    ],
-    "prevention": [
-      "Quit smoking",
-      "Vaccinate for flu",
-      "Hand hygiene",
-      "Avoid allergens",
-      "Wear a mask outdoors"
-    ],
-    "past_disease_match": [
-      "Asthma",
-      "Chronic Obstructive Pulmonary Disease (COPD)",
-      "Common cold",
-      "Sinusitis",
-      "Pneumonia"
-    ],
-    "surgery_match": [
-      "Lung biopsy",
-      "Sinus surgery",
-      "Tonsillectomy"
-    ]
-  },
-  {
-    "name": "Food Poisoning",
-    "category": "Digestive",
-    "symptoms": [
-      "Vomiting",
-      "Diarrhea",
-      "Stomach cramps",
-      "Fever",
-      "Weakness",
-      "Headache",
-      "Dehydration"
-    ],
-    "best_hospital": "Medanta – The Medicity, Gurgaon",
-    "clinic_contact": "0124-4141414",
-    "best_doctor": {
-      "name": "Dr. Sushila Kataria",
-      "address": "Medanta - The Medicity, Sector 38, Gurugram, Haryana 122001, India",
-      "website": "https://www.medanta.org"
-    },
-    "hospital_cost_breakup": {
-      "doctor_fees": 1000,
-      "medicine_cost": 500,
-      "hospital_cost_breakup": 5000,
-      "total_estimated_cost": 6500
-    },
-    "precautions": [
-      "Drink clean water",
-      "Eat hygienic food",
-      "Wash fruits/vegetables",
-      "Store food properly",
-      "Avoid street food"
-    ],
-    "prevention": [
-      "Handwashing",
-      "Clean kitchen utensils",
-      "Do not eat raw eggs/meat",
-      "Refrigerate leftovers",
-      "Food safety awareness"
-    ],
-    "past_disease_match": [
-      "Gastroenteritis",
-      "Irritable Bowel Syndrome (IBS)",
-      "Stomach flu",
-      "Helicobacter pylori infection",
-      "Lactose intolerance"
-    ],
-    "surgery_match": [
-      "Appendectomy",
-      "Gallbladder removal",
-      "Bowel resection"
-    ]
-  },
- {
-  "name": "Parkinson’s Disease",
-  "category": "Neurological",
-  "symptoms": [
-    "Tremors", "Slow movement", "Stiffness", "Imbalance", "Difficulty walking",
-    "Reduced facial expression", "Slurred speech", "Fatigue", "Confusion", "Insomnia"
-  ],
-  "best_hospital": "NIMHANS, Bangalore",
-  "clinic_contact": "+91 80 2699 5000",
-  "best_doctor": {
-    "name": "Dr. Pramod Kumar Pal",
-    "address": "National Institute of Mental Health and Neurosciences (NIMHANS), Hosur Road, Bengaluru, Karnataka 560029, India",
-    "website": "https://www.nimhans.ac.in"
-  },
-  "hospital_cost_breakup": {
-    "doctor_fees": 1200,
-    "medicine_cost": 3000,
-    "hospital_cost_breakup": 35000,
-    "total_estimated_cost": 39200
-  },
-  "precautions": [
-    "Regular physiotherapy", "Avoid sudden movement", "Timely medication",
-    "Avoid stress", "Daily check-ups"
-  ],
-  "prevention": [
-    "Exercise", "Healthy diet", "Avoid head injuries",
-    "Avoid pesticide exposure", "Avoid drug abuse"
-  ],
-  "past_disease_match": [
-    "Stroke",
-    "Encephalitis",
-    "Traumatic Brain Injury",
-    "Multiple System Atrophy",
-    "Lewy Body Dementia"
-  ],
-  "surgery_match": [
-    "Deep Brain Stimulation (DBS)",
-    "Pallidotomy",
-    "Thalamotomy"
-  ]
- },
- {
-  "name": "PCOS (Polycystic Ovary Syndrome)",
-  "category": "Women’s Health",
-  "symptoms": [
-    "Irregular periods", "Weight gain", "Acne", "Excess hair growth",
-    "Hair thinning", "Pelvic pain", "Fatigue", "Infertility", "Darkened skin patches", "Mood swings"
-  ],
-  "best_hospital": "Cloudnine Hospital, Bengaluru",
-  "clinic_contact": "+91 99728 99728",
-  "best_doctor": {
-    "name": "Dr. Aruna Muralidhar",
-    "address": "Cloudnine Hospital, 1533, 9th Main, 3rd Block, Jayanagar, Bengaluru, Karnataka 560011, India",
-    "website": "https://www.cloudninecare.com"
-  },
-  "hospital_cost_breakup": {
-    "doctor_fees": 800,
-    "medicine_cost": 1500,
-    "hospital_cost_breakup": 25000,
-    "total_estimated_cost": 27300
-  },
-  "precautions": [
-    "Regular exercise", "Healthy diet", "Monitor cycle",
-    "Weight control", "Avoid junk food"
-  ],
-  "prevention": [
-    "Maintain BMI", "Low-sugar diet", "Physical activity",
-    "Routine check-ups", "Hormone monitoring"
-  ],
-  "past_disease_match": [
-    "Insulin Resistance",
-    "Obesity",
-    "Type 2 Diabetes",
-    "Thyroid disorders",
-    "Metabolic Syndrome"
-  ],
-  "surgery_match": [
-    "Ovarian Drilling",
-    "Laparoscopic Ovarian Surgery"
+    "Bronchoscopy (for diagnosis and severe cases)",
+    "Oxygen therapy (chronic bronchitis)"
   ]
 },
 {
-  "name": "Rheumatoid Arthritis",
-  "category": "Orthopedic",
+  "name": "Polycystic Ovary Syndrome (PCOS)",
+  "category": "Endocrinological / Gynecological",
   "symptoms": [
-    "Joint pain",
-    "Swelling",
-    "Stiffness (especially in morning)",
-    "Fatigue",
-    "Low-grade fever",
-    "Weight loss",
-    "Numbness",
-    "Dry eyes",
-    "Inflamed joints",
-    "Reduced motion"
+    "Irregular or missed menstrual periods",
+    "Excess hair growth on face and body (hirsutism)",
+    "Weight gain or difficulty losing weight",
+    "Acne and oily skin",
+    "Thinning hair or hair loss on the scalp",
+    "Darkening of skin in body folds (neck, groin, under breasts)",
+    "Polycystic ovaries visible on ultrasound"
   ],
-  "best_hospital": "AIIMS, New Delhi",
-  "clinic_contact": "011-26588500",
+  "best_hospital": "All India Institute of Medical Sciences (AIIMS), New Delhi",
+  "hospital_cost_breakup": {
+    "doctor_fees": 3000,
+    "medicine_cost": 8000,
+    "bed_charges": 5000,
+    "meals": 2500
+  },
+  "estimated_total_cost": 18500,
+  "precautions": [
+    "Maintain a healthy weight through balanced diet and exercise",
+    "Monitor menstrual cycles regularly",
+    "Avoid junk food and high-sugar diet",
+    "Take medications as prescribed by gynecologist/endocrinologist"
+  ],
+  "preventions": [
+    "Adopt healthy eating habits with low refined carbs",
+    "Regular physical activity to improve insulin sensitivity",
+    "Manage stress effectively",
+    "Routine health check-ups for hormone balance"
+  ],
   "best_doctor": {
-    "name": "Dr. Anoop C",
-    "address": "Department of Neurology, All India Institute of Medical Sciences (AIIMS), Ansari Nagar, New Delhi - 110029, India",
+    "name": "Dr. Mala Raj",
+    "address": "Department of Obstetrics & Gynecology, AIIMS, New Delhi",
     "website": "https://www.aiims.edu"
   },
-  "hospital_cost_breakup": {
-    "doctor_fees": 1000,
-    "medicine_cost": 2500,
-    "hospital_cost_breakup": 30000,
-    "total_estimated_cost": 33500
-  },
-  "precautions": [
-    "Avoid cold exposure",
-    "Regular check-ups",
-    "Joint-friendly diet",
-    "Physiotherapy",
-    "Avoid stress"
-  ],
-  "prevention": [
-    "Stop smoking",
-    "Healthy weight",
-    "Omega-3 diet",
-    "Manage cholesterol",
-    "Early inflammation detection"
-  ],
+  "clinic_contact": "+91-11-26588500",
   "past_disease_match": [
-    "Lupus",
-    "Psoriasis",
-    "Type 1 Diabetes",
-    "Inflammatory Bowel Disease",
-    "Sjogren's Syndrome"
+    "Thyroid disorders",
+    "Adrenal hyperplasia",
+    "Metabolic syndrome"
   ],
   "surgery_match": [
-    "Joint Replacement Surgery",
-    "Synovectomy",
-    "Tendon Repair",
-    "Joint Fusion",
-    "Arthroscopic Debridement"
+    "Laparoscopic ovarian drilling (for resistant cases)",
+    "Fertility treatments (IVF, IUI if infertility persists)"
   ]
 },
-  {
-  "name": "Scabies",
-  "category": "Infectious/Skin",
+{
+  "name": "Rheumatoid Arthritis (RA)",
+  "category": "Autoimmune / Rheumatological",
   "symptoms": [
-    "Intense itching (worse at night)",
-    "Rash",
-    "Sores",
-    "Crusted skin",
-    "Red bumps",
-    "Blisters",
-    "Burrow tracks",
-    "Skin infection",
-    "Swelling",
-    "Burning"
+    "Joint pain, swelling, and stiffness (especially in hands and feet)",
+    "Morning stiffness lasting more than 30 minutes",
+    "Warm, tender joints",
+    "Fatigue and weakness",
+    "Low-grade fever",
+    "Loss of appetite",
+    "Decreased range of motion"
   ],
-  "best_hospital": "Safdarjung Hospital, Delhi",
-  "clinic_contact": "011-26165060",
-  "best_doctor": {
-    "name": "Dr. Atul Taneja",
-    "address": "Department of Dermatology, Safdarjung Hospital, Ansari Nagar, New Delhi - 110029, India",
-    "website": "https://www.safdarjunghospital.gov.in"
-  },
+  "best_hospital": "All India Institute of Medical Sciences (AIIMS), New Delhi",
   "hospital_cost_breakup": {
-    "doctor_fees": 300,
-    "medicine_cost": 500,
-    "hospital_cost_breakup": 2000,
-    "total_estimated_cost": 2800
+    "doctor_fees": 4000,
+    "medicine_cost": 12000,
+    "bed_charges": 6000,
+    "meals": 3000
   },
+  "estimated_total_cost": 25000,
   "precautions": [
-    "Wash clothes in hot water",
-    "Avoid skin contact",
-    "Don’t share bedding",
-    "Use prescribed lotion",
-    "Maintain hygiene"
+    "Take medications (DMARDs, biologics) as prescribed",
+    "Engage in gentle physical activity and physiotherapy",
+    "Avoid smoking and alcohol",
+    "Maintain a healthy, anti-inflammatory diet",
+    "Protect joints with proper posture and supportive devices"
   ],
-  "prevention": [
-    "Sanitize clothes",
-    "Avoid infected people",
-    "Use clean towels",
-    "Quick treatment",
-    "Isolate if infected"
+  "preventions": [
+    "Early treatment of joint pain to avoid progression",
+    "Regular exercise to maintain joint flexibility",
+    "Maintain healthy body weight",
+    "Reduce exposure to environmental toxins and smoking"
   ],
+  "best_doctor": {
+    "name": "Dr. Uma Kumar",
+    "address": "Department of Rheumatology, AIIMS, New Delhi",
+    "website": "https://www.aiims.edu"
+  },
+  "clinic_contact": "+91-11-26588500",
+  "past_disease_match": [
+    "Osteoarthritis",
+    "Psoriatic Arthritis",
+    "Lupus (Systemic Lupus Erythematosus)"
+  ],
+  "surgery_match": [
+    "Synovectomy",
+    "Joint replacement surgery (hip, knee, shoulder)"
+  ]
+},
+ {
+  "name": "Scabies",
+  "category": "Dermatological / Parasitic Infection",
+  "symptoms": [
+    "Intense itching, especially at night",
+    "Red, pimple-like rashes",
+    "Thin, irregular burrow tracks made up of tiny blisters or bumps",
+    "Sores caused by scratching",
+    "Skin crusting in severe cases (crusted scabies)"
+  ],
+  "best_hospital": "All India Institute of Medical Sciences (AIIMS), New Delhi",
+  "hospital_cost_breakup": {
+    "doctor_fees": 2000,
+    "medicine_cost": 4000,
+    "bed_charges": 3000,
+    "meals": 2000
+  },
+  "estimated_total_cost": 11000,
+  "precautions": [
+    "Wash clothing, bedding, and towels in hot water",
+    "Avoid close physical contact until treated",
+    "Keep fingernails trimmed to avoid skin damage from scratching",
+    "Follow the full course of prescribed topical medication"
+  ],
+  "preventions": [
+    "Maintain good personal hygiene",
+    "Avoid sharing clothing, towels, or bedding",
+    "Treat all family members and close contacts simultaneously",
+    "Disinfect household items to prevent reinfection"
+  ],
+  "best_doctor": {
+    "name": "Dr. Neena Khanna",
+    "address": "Department of Dermatology, AIIMS, New Delhi",
+    "website": "https://www.aiims.edu"
+  },
+  "clinic_contact": "+91-11-26588500",
   "past_disease_match": [
     "Eczema",
     "Contact Dermatitis",
-    "Psoriasis",
-    "Impetigo",
-    "Fungal Skin Infection"
+    "Psoriasis"
   ],
   "surgery_match": [
-    "Skin scraping for diagnosis",
-    "Topical excision (in extreme secondary infections)",
-    "Wound debridement (if severe crusting present)"
+    "No surgical treatment required",
+    "Severe crusted scabies may need hospitalization and intensive topical/oral therapy"
   ]
 },
   {
